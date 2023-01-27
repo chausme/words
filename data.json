@@ -1,14 +1,14 @@
-{
-    "2023-01-26": [
-        {
-            "word": "debris",
-            "type": "noun",
-            "meaning": "scattered pieces of waste or remains"
-        },
-        {
-            "word": "scatter",
-            "type": "noun",
-            "meaning": "a small, dispersed amount of something"
-        }
-    ]
-}
+[
+    {
+        "date": "2023-01-26",
+        "word": "scatter",
+        "type": "noun",
+        "meaning": "a small, dispersed amount of something"
+    },
+    {
+        "date": "2023-01-27",
+        "word": "debris",
+        "type": "noun",
+        "meaning": "scattered pieces of waste or remains"
+    }
+]

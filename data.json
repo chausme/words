@@ -2,13 +2,25 @@
     {
         "date": "2023-01-26",
         "word": "scatter",
-        "type": "noun",
+        "type": "n",
         "meaning": "a small, dispersed amount of something"
     },
     {
         "date": "2023-01-27",
         "word": "debris",
-        "type": "noun",
+        "type": "n",
         "meaning": "scattered pieces of waste or remains"
+    },
+    {
+        "date": "2023-01-28",
+        "word": "immense",
+        "type": "adj",
+        "meaning": "extremely large or great, especially in scale or degree"
+    },
+    {
+        "date": "2023-01-28",
+        "word": "dispersed",
+        "type": "adj",
+        "meaning": "distributed or spreaded over a wide area"
     }
 ]

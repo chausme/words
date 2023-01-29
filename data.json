@@ -3,24 +3,33 @@
         "date": "2023-01-26",
         "word": "scatter",
         "type": "n",
-        "meaning": "a small, dispersed amount of something"
+        "meaning": ["a small, dispersed amount of something"]
     },
     {
         "date": "2023-01-27",
         "word": "debris",
         "type": "n",
-        "meaning": "scattered pieces of waste or remains"
+        "meaning": ["scattered pieces of waste or remains"]
     },
     {
         "date": "2023-01-28",
         "word": "immense",
         "type": "adj",
-        "meaning": "extremely large or great, especially in scale or degree"
+        "meaning": ["extremely large or great, especially in scale or degree"]
     },
     {
         "date": "2023-01-28",
         "word": "dispersed",
         "type": "adj",
-        "meaning": "distributed or spreaded over a wide area"
+        "meaning": ["distributed or spreaded over a wide area"]
+    },
+    {
+        "date": "2023-01-28",
+        "word": "causality",
+        "type": "n",
+        "meaning": [
+            "the relationship between cause and effect",
+            "the principle that everything has a cause"
+        ]
     }
 ]

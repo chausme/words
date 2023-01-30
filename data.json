@@ -24,12 +24,18 @@
         "meaning": ["distributed or spreaded over a wide area"]
     },
     {
-        "date": "2023-01-28",
+        "date": "2023-01-29",
         "word": "causality",
         "type": "n",
         "meaning": [
             "the relationship between cause and effect",
             "the principle that everything has a cause"
         ]
+    },
+    {
+        "date": "2023-01-30",
+        "word": "quagmire",
+        "type": "n",
+        "meaning": ["a soft boggy area of land that gives way underfoot", "a difficult situation"]
     }
 ]

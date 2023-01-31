@@ -37,5 +37,11 @@
         "word": "quagmire",
         "type": "n",
         "meaning": ["a soft boggy area of land that gives way underfoot", "a difficult situation"]
+    },
+    {
+        "date": "2023-01-31",
+        "word": "demise",
+        "type": "n",
+        "meaning": ["a person's death", "conveyance or transfer of property or a title by demising"]
     }
 ]

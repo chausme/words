@@ -43,5 +43,11 @@
         "word": "demise",
         "type": "n",
         "meaning": ["a person's death", "conveyance or transfer of property or a title by demising"]
+    },
+    {
+        "date": "2023-02-01",
+        "word": "dart",
+        "type": "v",
+        "meaning": ["move or run somewhere suddenly or rapidly"]
     }
 ]

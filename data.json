@@ -49,5 +49,14 @@
         "word": "dart",
         "type": "v",
         "meaning": ["move or run somewhere suddenly or rapidly"]
+    },
+    {
+        "date": "2023-02-02",
+        "word": "fasten",
+        "type": "v",
+        "meaning": [
+            "close or do up securely",
+            "single out (someone or something) and concentrate on them or it obsessively"
+        ]
     }
 ]

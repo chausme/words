@@ -84,5 +84,11 @@
             "a bar that slides into a socket to fasten a door or window",
             "a short, heavy arrow shot from a crossbow"
         ]
+    },
+    {
+        "date": "2023-02-06",
+        "word": "shallow",
+        "type": "adj",
+        "meaning": ["of little depth"]
     }
 ]

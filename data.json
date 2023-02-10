@@ -110,8 +110,17 @@
         "word": "redemption",
         "type": "n",
         "meaning": [
-            "the action of saving or being saved from sin, error, or evil.",
-            "the action of regaining or gaining possession of something in exchange for payment, or clearing a debt."
+            "the action of saving or being saved from sin, error, or evil",
+            "the action of regaining or gaining possession of something in exchange for payment, or clearing a debt"
+        ]
+    },
+    {
+        "date": "2023-02-10",
+        "word": "abduct",
+        "type": "v",
+        "meaning": [
+            "take (someone) away illegally by force or deception; kidnap",
+            "(of a muscle) move (a limb or part) away from the midline of the body or from another part"
         ]
     }
 ]

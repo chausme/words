@@ -130,7 +130,13 @@
         "meaning": [
             "a rounded underground storage organ present in some plants, notably those of the lily family, consisting of a short stem surrounded by fleshy scale leaves or leaf bases, lying dormant over winter",
             "a light bulb",
-            "an expanded part of a glass tube such as that forming the reservoir of a thermometer "
+            "an expanded part of a glass tube such as that forming the reservoir of a thermometer"
         ]
+    },
+    {
+        "date": "2023-02-12",
+        "word": "hollow",
+        "type": "n",
+        "meaning": ["having a hole or empty space inside", "a hole or depression in something"]
     }
 ]

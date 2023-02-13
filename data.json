@@ -138,5 +138,11 @@
         "word": "hollow",
         "type": "n",
         "meaning": ["having a hole or empty space inside", "a hole or depression in something"]
+    },
+    {
+        "date": "2023-02-13",
+        "word": "olfactory",
+        "type": "adj",
+        "meaning": ["relating to the sense of smell"]
     }
 ]

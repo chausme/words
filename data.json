@@ -144,5 +144,14 @@
         "word": "olfactory",
         "type": "adj",
         "meaning": ["relating to the sense of smell"]
+    },
+    {
+        "date": "2023-02-14",
+        "word": "helix",
+        "type": "n",
+        "meaning": [
+            "an object having a three-dimensional shape like that of a wire wound uniformly in a single layer around a cylinder or cone, as in a corkscrew or spiral staircase",
+            "spiral"
+        ]
     }
 ]

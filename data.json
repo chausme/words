@@ -163,5 +163,14 @@
             "a sum paid to encourage trade",
             "something given or occurring in generous amounts"
         ]
+    },
+    {
+        "date": "2023-02-16",
+        "word": "crude",
+        "type": "adj",
+        "meaning": [
+            "in a natural or raw state; not yet processed or refined",
+            "constructed in a rudimentary or makeshift way"
+        ]
     }
 ]

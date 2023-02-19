@@ -187,5 +187,11 @@
         "word": "makeshift",
         "type": "adj",
         "meaning": ["serving as a temporary substitute; sufficient for the time being"]
+    },
+    {
+        "date": "2023-02-19",
+        "word": "glint`",
+        "type": "n",
+        "meaning": ["a small flash of light, especially as reflected from a shiny surface"]
     }
 ]

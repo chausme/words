@@ -190,8 +190,16 @@
     },
     {
         "date": "2023-02-19",
-        "word": "glint`",
+        "word": "glint",
         "type": "n",
         "meaning": ["a small flash of light, especially as reflected from a shiny surface"]
+    },
+    {
+        "date": "2023-02-20",
+        "word": "quiver",
+        "type": "n",
+        "meaning": [
+            "a slight trembling movement or sound, especially one caused by a sudden strong emotion"
+        ]
     }
 ]

@@ -223,5 +223,13 @@
         "word": "rod",
         "type": "n",
         "meaning": ["a thin straight bar, especially of wood or metal", "a fishing rod"]
+    },
+    {
+        "date": "2023-02-24",
+        "word": "cork",
+        "type": "n",
+        "meaning": [
+            "the buoyant, light brown substance obtained from the outer layer of the bark of the cork oak"
+        ]
     }
 ]

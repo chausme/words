@@ -256,5 +256,16 @@
         "word": "sheath",
         "type": "n",
         "meaning": ["a cover for the blade of a knife or sword"]
+    },
+    {
+        "date": "2023-02-28",
+        "word": "trunk",
+        "type": "n",
+        "meaning": [
+            "the main woody stem of a tree as distinct from its branches and roots",
+            "a person's or animal's body apart from the limbs and head",
+            "the elongated, prehensile nose of an elephant",
+            "a large box with a hinged lid for storing or transporting clothes and other articles"
+        ]
     }
 ]

@@ -311,9 +311,21 @@
         "meaning": ["above all; mainly"]
     },
     {
+        "date": "2023-03-07",
+        "word": "elongated",
+        "type": "adj",
+        "meaning": ["long in relation to width, especially unusually so"]
+    },
+    {
         "date": "2023-03-08",
         "word": "elongated",
         "type": "adj",
         "meaning": ["long in relation to width, especially unusually so"]
+    },
+    {
+        "date": "2023-03-09",
+        "word": "twig",
+        "type": "n",
+        "meaning": ["a slender woody shoot growing from a branch or stem of a tree or shrub"]
     }
 ]

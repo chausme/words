@@ -327,5 +327,16 @@
         "word": "twig",
         "type": "n",
         "meaning": ["a slender woody shoot growing from a branch or stem of a tree or shrub"]
+    },
+    {
+        "date": "2023-03-10",
+        "word": "shoot",
+        "type": "n",
+        "meaning": [
+            "a young branch or sucker springing from the main stock of a tree or other plant",
+            "an occasion when a group of people hunt and shoot game for sport",
+            "an occasion when a professional photographer takes photographs or when a film or video is being made",
+            "a rapid in a stream"
+        ]
     }
 ]

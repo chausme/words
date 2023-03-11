@@ -338,5 +338,47 @@
             "an occasion when a professional photographer takes photographs or when a film or video is being made",
             "a rapid in a stream"
         ]
+    },
+    {
+        "date": "2023-03-11",
+        "word": "dormant",
+        "type": "adj",
+        "meaning": [
+            "(of an animal) having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep",
+            "temporarily inactive or inoperative",
+            "(of an animal) depicted lying with its head on its paws"
+        ]
+    },
+    {
+        "date": "2023-03-11",
+        "word": "tapering",
+        "type": "adj",
+        "meaning": ["becoming thinner or narrower towards one end"]
+    },
+    {
+        "date": "2023-03-11",
+        "word": "boggy",
+        "type": "adj",
+        "meaning": ["too wet and muddy to be easily walked on; marshy."]
+    },
+    {
+        "date": "2023-03-11",
+        "word": "marshy",
+        "type": "adj",
+        "meaning": ["characteristic of or resembling a marsh; waterlogged."]
+    },
+    {
+        "date": "2023-03-11",
+        "word": "marsh",
+        "type": "n",
+        "meaning": [
+            "an area of low-lying land which is flooded in wet seasons or at high tide, and typically remains waterlogged at all times"
+        ]
+    },
+    {
+        "date": "2023-03-11",
+        "word": "waterlogged",
+        "type": "adj",
+        "meaning": ["saturated with or full of water"]
     }
 ]

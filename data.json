@@ -380,5 +380,11 @@
         "word": "waterlogged",
         "type": "adj",
         "meaning": ["saturated with or full of water"]
+    },
+    {
+        "date": "2023-03-12",
+        "word": "rapid",
+        "type": "n",
+        "meaning": ["a fast-flowing and turbulent part of the course of a river"]
     }
 ]

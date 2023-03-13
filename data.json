@@ -386,5 +386,14 @@
         "word": "rapid",
         "type": "n",
         "meaning": ["a fast-flowing and turbulent part of the course of a river"]
+    },
+    {
+        "date": "2023-03-13",
+        "word": "course",
+        "type": "n",
+        "meaning": [
+            "the route or direction followed by a ship, aircraft, road, or river",
+            "a dish, or a set of dishes served together, forming one of the successive parts of a meal"
+        ]
     }
 ]

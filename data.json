@@ -395,5 +395,21 @@
             "the route or direction followed by a ship, aircraft, road, or river",
             "a dish, or a set of dishes served together, forming one of the successive parts of a meal"
         ]
+    },
+    {
+        "date": "2023-03-14",
+        "word": "saturated",
+        "type": "adj",
+        "meaning": [
+            "holding as much water or moisture as can be absorbed; thoroughly soaked",
+            "(of an organic molecule) containing the greatest possible number of hydrogen atoms, and so having no carbon-carbon double or triple bonds",
+            "(of color) very bright, full, and free from an admixture of white"
+        ]
+    },
+    {
+        "date": "2023-03-15",
+        "word": "admixture",
+        "type": "n",
+        "meaning": ["a mixture"]
     }
 ]

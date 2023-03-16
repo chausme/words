@@ -1,3 +1,3 @@
-# Words
+# words.mx
 
-⚡ A simple way to learn new English words every day
+Learn new English words every day

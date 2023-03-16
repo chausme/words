@@ -4,19 +4,43 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+            crossorigin="anonymous"
+        />
+        <link
             rel="icon"
             href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%2210 0 100 100%22><text y=%22.90em%22 font-size=%2290%22>☕</text></svg>"
         />
         <title>Words - English words every day</title>
     </head>
     <body>
-        <div
-            id="app"
-            style="display: flex; align-items: center; justify-content: center; padding: 25px"
-        >
-            <p style="font-size: 2rem; text-align: center">
-                Hey 👋 Do you know what does word <strong>lean (verb)</strong> mean?
-            </p>
+        <div id="app">
+            <div class="container my-5 pt-5">
+                <div class="row mb-5">
+                    <div class="col-md-8 offset-md-2 col-xl-6 offset-xl-3">
+                        <h1 class="fw-normal">
+                            Hey 👋 Do you know what does word <strong>lean (verb)</strong> mean?
+                        </h1>
+                    </div>
+                </div>
+                <div class="row mb-5">
+                    <div class="col-md-8 offset-md-2 col-xl-6 offset-xl-3">
+                        <button class="btn btn-success btn-lg js-show">Unveil</button>
+                    </div>
+                </div>
+                <div class="row js-answer d-none">
+                    <div class="col-md-8 offset-md-2 col-xl-6 offset-xl-3">
+                        <ol class="ps-4 fs-5">
+                            <li>be in or move into a sloping position</li>
+                            <li>to cast one's weight to one side for support</li>
+                            <li>to rely for support or inspiration</li>
+                            <li>to incline in opinion, taste, or desire</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
         </div>
         <script type="module" src="/main.js"></script>
     </body>

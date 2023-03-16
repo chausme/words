@@ -411,5 +411,16 @@
         "word": "admixture",
         "type": "n",
         "meaning": ["a mixture"]
+    },
+    {
+        "date": "2023-03-16",
+        "word": "lean",
+        "type": "v",
+        "meaning": [
+            "be in or move into a sloping position",
+            "to cast one's weight to one side for support",
+            "to rely for support or inspiration",
+            "to incline in opinion, taste, or desire"
+        ]
     }
 ]

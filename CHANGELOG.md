@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0] - 2023-03-17
+
+### Added
+
+-   More interactivity.
+-   Actual data output from local JSON file.
+
+### Changed
+
+-   Output limit to a single word per day as a temporary measure.
+-   Local Vite server port to `1234`.
+
 ## [0.0.2] - 2023-03-16
 
 ### Added

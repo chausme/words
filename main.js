@@ -10,9 +10,11 @@ const btnStart = document.querySelector('.js-start');
 /**
  * Create a custom element
  */
-const createCustomElement = (tagname, textContent, classes = []) => {
+const createCustomElement = (tagname, textContent = null, classes = []) => {
     const el = document.createElement(tagname);
-    el.textContent = textContent;
+    if (textContent) {
+        el.textContent = textContent;
+    }
     if (classes.length) {
         classes.forEach(className => {
             el.classList.add(className);
@@ -22,16 +24,30 @@ const createCustomElement = (tagname, textContent, classes = []) => {
 };
 
 /**
+ * Create answer output
+ */
+const createAnswerOutput = meanings => {
+    const list = createCustomElement('ol', null, ['ps-4', 'fs-5']);
+
+    meanings.forEach(meaning => {
+        const answer = createCustomElement('li');
+        answer.textContent = meaning;
+        list.appendChild(answer);
+    });
+    return list;
+};
+
+/**
  * Show words for today
  */
 
 btnStart.addEventListener('click', e => {
     // output question
 
-    const question = createCustomElement('h2', 'Do you know these words?', ['mb-5', 'fw-normal']);
+    const question = createCustomElement('h2', 'Do you know this word?', ['mb-5', 'fw-normal']);
     questionEl.replaceWith(question);
 
-    // output word(s)
+    // output word, a single one only is supported at the moment
 
     const words = [
         {
@@ -49,6 +65,8 @@ btnStart.addEventListener('click', e => {
     words.forEach(word => {
         const wordEl = createCustomElement('h2', `- ${word.term} (${word.type})`);
         infoEl.appendChild(wordEl);
+        // create answer output
+        answerEl.children[0].appendChild(createAnswerOutput(word.meaning));
     });
 
     // output @show button

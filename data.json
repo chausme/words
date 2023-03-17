@@ -434,5 +434,20 @@
         "word": "inclined",
         "type": "adj",
         "meaning": ["leaning or turning away from the vertical or horizontal; sloping."]
+    },
+    {
+        "date": "2023-03-17",
+        "word": "sentient",
+        "type": "adj",
+        "meaning": ["able to perceive or feel things."]
+    },
+    {
+        "date": "2023-03-17",
+        "word": "perceive",
+        "type": "v",
+        "meaning": [
+            "become aware or conscious of (something); come to realize or understand.",
+            "interpret or look on (someone or something) in a particular way; regard as."
+        ]
     }
 ]

@@ -422,5 +422,17 @@
             "to rely for support or inspiration",
             "to incline in opinion, taste, or desire"
         ]
+    },
+    {
+        "date": "2023-03-17",
+        "word": "sloping",
+        "type": "adj",
+        "meaning": ["inclined from a horizontal or vertical line."]
+    },
+    {
+        "date": "2023-03-17",
+        "word": "inclined",
+        "type": "adj",
+        "meaning": ["leaning or turning away from the vertical or horizontal; sloping."]
     }
 ]

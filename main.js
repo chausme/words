@@ -1,3 +1,5 @@
+import data from './data.json';
+
 /**
  * Old school JS app - to replace with modern approach please
  */
@@ -6,6 +8,24 @@ const infoEl = document.querySelector('.js-info');
 const questionEl = document.querySelector('.js-question');
 const answerEl = document.querySelector('.js-answer');
 const btnStart = document.querySelector('.js-start');
+
+/**
+ * Get word full type
+ */
+const getWordType = type => {
+    switch (type) {
+        case 'v':
+            return 'verb';
+        case 'n':
+            return 'noun';
+        case 'adj':
+            return 'adjective';
+        case 'adv':
+            return 'adv';
+        default:
+            return '';
+    }
+};
 
 /**
  * Create a custom element
@@ -49,21 +69,10 @@ btnStart.addEventListener('click', e => {
 
     // output word, a single one only is supported at the moment
 
-    const words = [
-        {
-            term: 'Lean',
-            type: 'verb',
-            meaning: [
-                `be in or move into a sloping position`,
-                `to cast one's weight to one side for support`,
-                `to rely for support or inspiration`,
-                `to incline in opinion, taste, or desire`,
-            ],
-        },
-    ];
+    const words = [data[data.length - 1]];
 
     words.forEach(word => {
-        const wordEl = createCustomElement('h2', `- ${word.term} (${word.type})`);
+        const wordEl = createCustomElement('h2', `- ${word.word} (${getWordType(word.type)})`);
         infoEl.appendChild(wordEl);
         // create answer output
         answerEl.children[0].appendChild(createAnswerOutput(word.meaning));

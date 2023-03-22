@@ -480,5 +480,15 @@
         "word": "proponent",
         "type": "n",
         "meaning": ["a person who advocates a theory, proposal, or project."]
+    },
+    {
+        "date": "2023-03-22",
+        "word": "cusp",
+        "type": "n",
+        "meaning": [
+            "a point of transition between two different states.",
+            "a pointed end where two curves meet.",
+            "the initial point of an astrological sign or house."
+        ]
     }
 ]

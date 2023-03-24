@@ -496,5 +496,14 @@
         "word": "handwoven",
         "type": "adj",
         "meaning": ["made on a hand-operated loom."]
+    },
+    {
+        "date": "2023-03-24",
+        "word": "bow",
+        "type": "n",
+        "meaning": [
+            "a knot tied with two loops and two loose ends, used especially for tying shoelaces and decorative ribbons.",
+            "a weapon for shooting arrows, typically made of a curved piece of wood whose ends are joined by a taut string."
+        ]
     }
 ]

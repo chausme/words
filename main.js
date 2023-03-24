@@ -21,7 +21,7 @@ const getWordType = type => {
         case 'adj':
             return 'adjective';
         case 'adv':
-            return 'adv';
+            return 'adverb';
         default:
             return '';
     }

@@ -505,5 +505,11 @@
             "a knot tied with two loops and two loose ends, used especially for tying shoelaces and decorative ribbons.",
             "a weapon for shooting arrows, typically made of a curved piece of wood whose ends are joined by a taut string."
         ]
+    },
+    {
+        "date": "2023-03-25",
+        "word": "embark",
+        "type": "v",
+        "meaning": ["go on board a ship, aircraft, or other vehicle."]
     }
 ]

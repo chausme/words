@@ -511,5 +511,14 @@
         "word": "embark",
         "type": "v",
         "meaning": ["go on board a ship, aircraft, or other vehicle."]
+    },
+    {
+        "date": "2023-03-26",
+        "word": "curb",
+        "type": "n",
+        "meaning": [
+            "a check or restraint on something.",
+            "a type of bit that is widely used in western riding. In English riding it is usually only used with a snaffle as part of a double bridle."
+        ]
     }
 ]

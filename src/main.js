@@ -1,4 +1,4 @@
-import data from './data.json';
+import data from '../data.json';
 
 /**
  * Old school JS app - to replace with modern approach please

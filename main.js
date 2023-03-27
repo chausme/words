@@ -12,7 +12,7 @@ const btnStart = document.querySelector('.js-start');
 /**
  * Get word full type
  */
-const getWordType = type => {
+export const getWordType = type => {
     switch (type) {
         case 'v':
             return 'verb';

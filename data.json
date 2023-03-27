@@ -520,5 +520,35 @@
             "a check or restraint on something.",
             "a type of bit that is widely used in western riding. In English riding it is usually only used with a snaffle as part of a double bridle."
         ]
+    },
+    {
+        "date": "2023-03-27",
+        "word": "snaffle",
+        "type": "n",
+        "meaning": [
+            "(on a bridle) a simple bit, typically a jointed one, used with a single set of reins."
+        ]
+    },
+    {
+        "date": "2023-03-27",
+        "word": "bit",
+        "type": "n",
+        "meaning": [
+            "a small piece, part, or quantity of something.",
+            "(on a bridle) a simple snaffle",
+            "chisel",
+            "drill",
+            "blade",
+            "mouthpiece",
+            "barb"
+        ]
+    },
+    {
+        "date": "2023-03-27",
+        "word": "rein",
+        "type": "n",
+        "meaning": [
+            "a long, narrow strap attached at one end to a horse's bit, typically used in pairs to guide or check a horse while riding or driving."
+        ]
     }
 ]

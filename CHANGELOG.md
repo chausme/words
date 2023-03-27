@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.1] - 2023-03-27
+
+### Added
+
+-   Google Analytics.
+-   Jest tests.
+-   Github Jest test workflow.
+
+### Changed
+
+-   Place source files into /src directory.
+
 ## [0.1.0] - 2023-03-17
 
 ### Added

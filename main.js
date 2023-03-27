@@ -30,7 +30,7 @@ const getWordType = type => {
 /**
  * Create a custom element
  */
-const createCustomElement = (tagname, textContent = null, classes = []) => {
+export const createCustomElement = (tagname, textContent = null, classes = []) => {
     const el = document.createElement(tagname);
     if (textContent) {
         el.textContent = textContent;
@@ -46,7 +46,7 @@ const createCustomElement = (tagname, textContent = null, classes = []) => {
 /**
  * Create answer output
  */
-const createAnswerOutput = meanings => {
+export const createAnswerOutput = meanings => {
     const list = createCustomElement('ol', null, ['ps-4', 'fs-5']);
 
     meanings.forEach(meaning => {
@@ -61,7 +61,7 @@ const createAnswerOutput = meanings => {
  * Show words for today
  */
 
-btnStart.addEventListener('click', e => {
+btnStart?.addEventListener('click', e => {
     // output question
 
     const question = createCustomElement('h2', 'Do you know this word?', ['mb-5', 'fw-normal']);
@@ -90,7 +90,7 @@ btnStart.addEventListener('click', e => {
 
     // add answer output trigger
 
-    btnShow.addEventListener('click', e => {
+    btnShow?.addEventListener('click', e => {
         if (!answerEl?.dataset?.state || answerEl?.dataset?.state === 'hidden') {
             answerEl.classList.remove('d-none');
             btnShow.textContent = 'Stash';

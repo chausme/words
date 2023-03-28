@@ -550,5 +550,17 @@
         "meaning": [
             "a long, narrow strap attached at one end to a horse's bit, typically used in pairs to guide or check a horse while riding or driving."
         ]
+    },
+    {
+        "date": "2023-03-28",
+        "word": "semidrowse",
+        "type": "n",
+        "meaning": ["(in literature) a light sleep; a condition of being half asleep."]
+    },
+    {
+        "date": "2023-03-28",
+        "word": "drowse",
+        "type": "v",
+        "meaning": ["be half asleep; doze intermittently."]
     }
 ]

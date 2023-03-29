@@ -562,5 +562,11 @@
         "word": "drowse",
         "type": "v",
         "meaning": ["be half asleep; doze intermittently."]
+    },
+    {
+        "date": "2023-03-29",
+        "word": "intermittently",
+        "type": "adv",
+        "meaning": ["at irregular intervals; not continuously or steadily."]
     }
 ]

@@ -1,15 +1,6 @@
 import data from '../data.json';
 
 /**
- * Old school JS app - to replace with modern approach please
- */
-
-const infoEl = document.querySelector('.js-info');
-const questionEl = document.querySelector('.js-question');
-const answerEl = document.querySelector('.js-answer');
-const btnStart = document.querySelector('.js-start');
-
-/**
  * Get word full type
  */
 export const getWordType = type => {
@@ -58,13 +49,20 @@ export const createAnswerOutput = meanings => {
 };
 
 /**
- * Show words for today
+ * Output question
+ * Old school JS app - to replace with modern approach please
  */
+export const outputQuestion = data => {
+    const infoEl = document.querySelector('.js-info');
+    const questionEl = document.querySelector('.js-question');
+    const answerEl = document.querySelector('.js-answer');
+    const btnStart = document.querySelector('.js-start');
 
-btnStart?.addEventListener('click', e => {
-    // output question
-
-    const question = createCustomElement('h2', 'Do you know this word?', ['mb-5', 'fw-normal']);
+    const question = createCustomElement('h2', 'Do you know this word?', [
+        'mb-5',
+        'fw-normal',
+        'js-question',
+    ]);
     questionEl.replaceWith(question);
 
     // output word, a single one only is supported at the moment
@@ -86,7 +84,7 @@ btnStart?.addEventListener('click', e => {
         'btn-lg',
         'js-show',
     ]);
-    btnStart.replaceWith(btnShow);
+    btnStart?.replaceWith(btnShow);
 
     // add answer output trigger
 
@@ -102,4 +100,13 @@ btnStart?.addEventListener('click', e => {
         }
         e.preventDefault();
     });
+};
+
+/**
+ * Show words for today
+ */
+
+const btnStart = document.querySelector('.js-start');
+btnStart?.addEventListener('click', e => {
+    outputQuestion(data);
 });

@@ -574,5 +574,17 @@
         "word": "steadily",
         "type": "adv",
         "meaning": ["in a regular and even manner.", "in a controlled or unwavering manner."]
+    },
+    {
+        "date": "2023-03-31",
+        "word": "unwavering",
+        "type": "adj",
+        "meaning": ["steady or resolute; not wavering."]
+    },
+    {
+        "date": "2023-03-31",
+        "word": "resolute",
+        "type": "adj",
+        "meaning": ["admirably purposeful, determined, and unwavering."]
     }
 ]

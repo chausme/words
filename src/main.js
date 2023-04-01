@@ -1,5 +1,7 @@
 import data from '../data.json';
 
+let state = 0;
+
 /**
  * Get word full type
  */
@@ -39,7 +41,6 @@ export const createCustomElement = (tagname, textContent = null, classes = []) =
  */
 export const createAnswerOutput = meanings => {
     const list = createCustomElement('ol', null, ['ps-4', 'fs-5']);
-
     meanings.forEach(meaning => {
         const answer = createCustomElement('li');
         answer.textContent = meaning;
@@ -50,63 +51,110 @@ export const createAnswerOutput = meanings => {
 
 /**
  * Output question
- * Old school JS app - to replace with modern approach please
+ * @param {Array} data
+ * @param {Number} index
  */
-export const outputQuestion = data => {
+const outputWord = (data, index = 0) => {
     const infoEl = document.querySelector('.js-info');
-    const questionEl = document.querySelector('.js-question');
     const answerEl = document.querySelector('.js-answer');
+    const btnReset = document.querySelector('.js-reset');
     const btnStart = document.querySelector('.js-start');
-
-    const question = createCustomElement('h2', 'Do you know this word?', [
-        'mb-5',
-        'fw-normal',
-        'js-question',
-    ]);
-    questionEl.replaceWith(question);
-
-    // output word, a single one only is supported at the moment
-
-    const words = [data[data.length - 1]];
-
-    words.forEach(word => {
-        const wordEl = createCustomElement('h2', `- ${word.word} (${getWordType(word.type)})`);
-        infoEl.appendChild(wordEl);
-        // create answer output
-        answerEl.children[0].appendChild(createAnswerOutput(word.meaning));
-    });
-
-    // output @show button
-
     const btnShow = createCustomElement('button', 'Unveil', [
         'btn',
         'btn-success',
         'btn-lg',
         'js-show',
     ]);
-    btnStart?.replaceWith(btnShow);
 
-    // add answer output trigger
+    index = parseInt(index, 10);
 
     btnShow?.addEventListener('click', e => {
-        if (!answerEl?.dataset?.state || answerEl?.dataset?.state === 'hidden') {
-            answerEl.classList.remove('d-none');
-            btnShow.textContent = 'Stash';
-            answerEl.dataset.state = 'visible';
-        } else {
-            answerEl.classList.add('d-none');
-            btnShow.textContent = 'Unveil';
-            answerEl.dataset.state = 'hidden';
-        }
+        answerEl.classList.remove('d-none');
+        btnReset.classList.remove('d-none');
+
+        const btnStart = createCustomElement('button', 'Next', [
+            'btn',
+            'btn-success',
+            'btn-lg',
+            'js-start',
+        ]);
+        btnStart?.addEventListener('click', e => {
+            document.querySelector('.word')?.remove();
+            document.querySelector('.js-answer')?.classList.add('d-none');
+            state = state + 1;
+            outputWord(data, state);
+        });
+        btnShow.replaceWith(btnStart);
+
         e.preventDefault();
     });
+    btnStart?.replaceWith(btnShow);
+    answerEl.children[0].textContent = '';
+    const words = [data[data.length - (index + 1)]];
+
+    words.forEach(word => {
+        const wordEl = createCustomElement('h2', `- ${word.word} (${getWordType(word.type)})`, [
+            'word',
+        ]);
+        infoEl.appendChild(wordEl);
+        answerEl.children[0].appendChild(createAnswerOutput(word.meaning));
+    });
+};
+
+/**
+ * Replace initial output with question
+ */
+const outputQuestion = () => {
+    const questionEl = document.querySelector('.js-question');
+    const question = createCustomElement('h2', 'Do you know this word?', [
+        'mb-5',
+        'fw-normal',
+        'js-question',
+    ]);
+    questionEl.replaceWith(question);
+    outputWord(data);
+};
+
+const reset = () => {
+    state = 0;
+    const questionEl = document.querySelector('.js-question');
+    const question = createCustomElement('h2', 'There is something new for today. Ready?', [
+        'mb-5',
+        'fw-normal',
+        'js-question',
+    ]);
+
+    questionEl.replaceWith(question);
 };
 
 /**
  * Show words for today
  */
-
 const btnStart = document.querySelector('.js-start');
 btnStart?.addEventListener('click', e => {
-    outputQuestion(data);
+    outputQuestion();
+});
+
+/**
+ * Reset progress
+ */
+const btnReset = document.querySelector('.js-reset');
+btnReset?.addEventListener('click', e => {
+    document.querySelector('.word')?.remove();
+    document.querySelector('.js-answer')?.classList.add('d-none');
+    const btnStart = document.querySelector('.js-start');
+    if (btnStart) {
+        btnStart.textContent = 'Sure, I do';
+    }
+    const btnShow = document.querySelector('.js-show');
+    if (btnShow) {
+        const btnStart = createCustomElement('button', 'Next', [
+            'btn',
+            'btn-success',
+            'btn-lg',
+            'js-start',
+        ]);
+        btnShow.replaceWith(btnStart);
+    }
+    reset();
 });

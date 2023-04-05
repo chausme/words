@@ -78,9 +78,51 @@ const createBtnNext = () => {
     btnNext?.addEventListener('click', e => {
         document.querySelector('.word')?.remove();
         document.querySelector('.js-answer')?.classList.add('d-none');
+        state = state + 1;
+        outputBtnShow(btnNext);
         outputWord(data, state);
     });
     return btnNext;
+};
+
+/**
+ * Create button: Show
+ */
+const createBtnShow = () => {
+    const answerEl = document.querySelector('.js-answer');
+    const btnShow = createCustomElement('button', 'Unveil', [
+        'btn',
+        'btn-success',
+        'btn-lg',
+        'js-show',
+    ]);
+    const btnNext = createBtnNext();
+    btnShow?.addEventListener('click', e => {
+        answerEl.classList.remove('d-none');
+        btnShow?.replaceWith(btnNext);
+        e.preventDefault();
+    });
+    return btnShow;
+};
+
+/**
+ * Create and output button: Show
+ */
+const outputBtnShow = btnNext => {
+    const answerEl = document.querySelector('.js-answer');
+    const btnShow = createCustomElement('button', 'Unveil', [
+        'btn',
+        'btn-success',
+        'btn-lg',
+        'js-show',
+    ]);
+    btnShow?.addEventListener('click', e => {
+        answerEl.classList.remove('d-none');
+        btnShow?.replaceWith(btnNext);
+        e.preventDefault();
+    });
+    btnNext?.replaceWith(btnShow);
+    return btnShow;
 };
 
 /**
@@ -91,22 +133,8 @@ const createBtnNext = () => {
 const outputWord = (data, index = 0) => {
     const infoEl = document.querySelector('.js-info');
     const answerEl = document.querySelector('.js-answer');
-    const btnReset = document.querySelector('.js-reset');
-    const btnShow = createCustomElement('button', 'Unveil', [
-        'btn',
-        'btn-success',
-        'btn-lg',
-        'js-show',
-    ]);
 
     index = parseInt(index, 10);
-
-    btnShow?.addEventListener('click', e => {
-        answerEl.classList.remove('d-none');
-        btnReset.classList.remove('d-none');
-
-        e.preventDefault();
-    });
 
     answerEl.children[0].textContent = '';
     const words = [data[data.length - (index + 1)]];
@@ -133,8 +161,8 @@ const start = () => {
     questionEl.replaceWith(question);
 
     const btnStart = document.querySelector('.js-start');
-    const btnNext = createBtnNext();
-    btnStart?.replaceWith(btnNext);
+    const btnShow = createBtnShow();
+    btnStart?.replaceWith(btnShow);
 
     const btnReset = document.querySelector('.js-reset');
     btnReset?.classList.remove('d-none');
@@ -166,8 +194,16 @@ const reset = () => {
     document.querySelector('.js-answer')?.classList.add('d-none');
 
     const btnNext = document.querySelector('.js-next');
+    const btnShow = document.querySelector('.js-show');
     const btnStart = createBtnStart();
-    btnNext?.replaceWith(btnStart);
+
+    if (btnNext) {
+        btnNext.replaceWith(btnStart);
+    }
+
+    if (btnShow) {
+        btnShow.replaceWith(btnStart);
+    }
 };
 const btnReset = document.querySelector('.js-reset');
 btnReset?.addEventListener('click', e => {

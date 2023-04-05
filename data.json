@@ -359,13 +359,13 @@
         "date": "2023-03-11",
         "word": "boggy",
         "type": "adj",
-        "meaning": ["too wet and muddy to be easily walked on; marshy."]
+        "meaning": ["too wet and muddy to be easily walked on; marshy"]
     },
     {
         "date": "2023-03-11",
         "word": "marshy",
         "type": "adj",
-        "meaning": ["characteristic of or resembling a marsh; waterlogged."]
+        "meaning": ["characteristic of or resembling a marsh; waterlogged"]
     },
     {
         "date": "2023-03-11",
@@ -427,27 +427,27 @@
         "date": "2023-03-17",
         "word": "sloping",
         "type": "adj",
-        "meaning": ["inclined from a horizontal or vertical line."]
+        "meaning": ["inclined from a horizontal or vertical line"]
     },
     {
         "date": "2023-03-17",
         "word": "inclined",
         "type": "adj",
-        "meaning": ["leaning or turning away from the vertical or horizontal; sloping."]
+        "meaning": ["leaning or turning away from the vertical or horizontal; sloping"]
     },
     {
         "date": "2023-03-17",
         "word": "sentient",
         "type": "adj",
-        "meaning": ["able to perceive or feel things."]
+        "meaning": ["able to perceive or feel things"]
     },
     {
         "date": "2023-03-17",
         "word": "perceive",
         "type": "v",
         "meaning": [
-            "become aware or conscious of (something); come to realize or understand.",
-            "interpret or look on (someone or something) in a particular way; regard as."
+            "become aware or conscious of (something); come to realize or understand",
+            "interpret or look on (someone or something) in a particular way; regard as"
         ]
     },
     {
@@ -455,7 +455,7 @@
         "word": "artisan",
         "type": "n",
         "meaning": [
-            "a worker in a skilled trade, especially one that involves making things by hand."
+            "a worker in a skilled trade, especially one that involves making things by hand"
         ]
     },
     {
@@ -463,8 +463,8 @@
         "word": "aspire",
         "type": "v",
         "meaning": [
-            "direct one's hopes or ambitions towards achieving something.",
-            "rise high; tower."
+            "direct one's hopes or ambitions towards achieving something",
+            "rise high; tower"
         ]
     },
     {
@@ -472,53 +472,53 @@
         "word": "undertow",
         "type": "n",
         "meaning": [
-            "a current of water below the surface and moving in a different direction from any surface current."
+            "a current of water below the surface and moving in a different direction from any surface current"
         ]
     },
     {
         "date": "2023-03-21",
         "word": "proponent",
         "type": "n",
-        "meaning": ["a person who advocates a theory, proposal, or project."]
+        "meaning": ["a person who advocates a theory, proposal, or project"]
     },
     {
         "date": "2023-03-22",
         "word": "cusp",
         "type": "n",
         "meaning": [
-            "a point of transition between two different states.",
-            "a pointed end where two curves meet.",
-            "the initial point of an astrological sign or house."
+            "a point of transition between two different states",
+            "a pointed end where two curves meet",
+            "the initial point of an astrological sign or house"
         ]
     },
     {
         "date": "2023-03-23",
         "word": "handwoven",
         "type": "adj",
-        "meaning": ["made on a hand-operated loom."]
+        "meaning": ["made on a hand-operated loom"]
     },
     {
         "date": "2023-03-24",
         "word": "bow",
         "type": "n",
         "meaning": [
-            "a knot tied with two loops and two loose ends, used especially for tying shoelaces and decorative ribbons.",
-            "a weapon for shooting arrows, typically made of a curved piece of wood whose ends are joined by a taut string."
+            "a knot tied with two loops and two loose ends, used especially for tying shoelaces and decorative ribbons",
+            "a weapon for shooting arrows, typically made of a curved piece of wood whose ends are joined by a taut string"
         ]
     },
     {
         "date": "2023-03-25",
         "word": "embark",
         "type": "v",
-        "meaning": ["go on board a ship, aircraft, or other vehicle."]
+        "meaning": ["go on board a ship, aircraft, or other vehicle"]
     },
     {
         "date": "2023-03-26",
         "word": "curb",
         "type": "n",
         "meaning": [
-            "a check or restraint on something.",
-            "a type of bit that is widely used in western riding. In English riding it is usually only used with a snaffle as part of a double bridle."
+            "a check or restraint on something",
+            "a type of bit that is widely used in western riding. In English riding it is usually only used with a snaffle as part of a double bridle"
         ]
     },
     {
@@ -526,7 +526,7 @@
         "word": "snaffle",
         "type": "n",
         "meaning": [
-            "(on a bridle) a simple bit, typically a jointed one, used with a single set of reins."
+            "(on a bridle) a simple bit, typically a jointed one, used with a single set of reins"
         ]
     },
     {
@@ -534,7 +534,7 @@
         "word": "bit",
         "type": "n",
         "meaning": [
-            "a small piece, part, or quantity of something.",
+            "a small piece, part, or quantity of something",
             "(on a bridle) a simple snaffle",
             "chisel",
             "drill",
@@ -548,49 +548,78 @@
         "word": "rein",
         "type": "n",
         "meaning": [
-            "a long, narrow strap attached at one end to a horse's bit, typically used in pairs to guide or check a horse while riding or driving."
+            "a long, narrow strap attached at one end to a horse's bit, typically used in pairs to guide or check a horse while riding or driving"
         ]
     },
     {
         "date": "2023-03-28",
         "word": "semidrowse",
         "type": "n",
-        "meaning": ["(in literature) a light sleep; a condition of being half asleep."]
+        "meaning": ["(in literature) a light sleep; a condition of being half asleep"]
     },
     {
         "date": "2023-03-28",
         "word": "drowse",
         "type": "v",
-        "meaning": ["be half asleep; doze intermittently."]
+        "meaning": ["be half asleep; doze intermittently"]
     },
     {
         "date": "2023-03-29",
         "word": "intermittently",
         "type": "adv",
-        "meaning": ["at irregular intervals; not continuously or steadily."]
+        "meaning": ["at irregular intervals; not continuously or steadily"]
     },
     {
         "date": "2023-03-30",
         "word": "steadily",
         "type": "adv",
-        "meaning": ["in a regular and even manner.", "in a controlled or unwavering manner."]
+        "meaning": ["in a regular and even manner", "in a controlled or unwavering manner"]
     },
     {
         "date": "2023-03-31",
         "word": "unwavering",
         "type": "adj",
-        "meaning": ["steady or resolute; not wavering."]
+        "meaning": ["steady or resolute; not wavering"]
     },
     {
         "date": "2023-03-31",
         "word": "resolute",
         "type": "adj",
-        "meaning": ["admirably purposeful, determined, and unwavering."]
+        "meaning": ["admirably purposeful, determined, and unwavering"]
     },
     {
         "date": "2023-04-01",
         "word": "midwife",
         "type": "n",
-        "meaning": ["a person (typically a woman) trained to assist women in childbirth."]
+        "meaning": ["a person (typically a woman) trained to assist women in childbirth"]
+    },
+    {
+        "date": "2023-04-02",
+        "word": "wherein",
+        "type": "adv",
+        "meaning": ["in which", "in what place or respect?"]
+    },
+    {
+        "date": "2023-04-04",
+        "word": "marvelous",
+        "type": "adj",
+        "meaning": ["causing great wonder; extraordinary"]
+    },
+    {
+        "date": "2023-04-05",
+        "word": "sprinkling",
+        "type": "n",
+        "meaning": ["a small thinly distributed amount of something"]
+    },
+    {
+        "date": "2023-04-05",
+        "word": "thinly",
+        "type": "adv",
+        "meaning": [
+            "in a way that creates a thin piece or layer of something",
+            "with little flesh or fat on the body",
+            "with few parts or people relative to the area covered or filled; sparsely",
+            "in a way that lacks strength, substance, or quality; weakly"
+        ]
     }
 ]

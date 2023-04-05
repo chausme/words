@@ -50,6 +50,40 @@ export const createAnswerOutput = meanings => {
 };
 
 /**
+ * Create button: Start
+ */
+const createBtnStart = () => {
+    const btnStart = createCustomElement('button', 'Sure, I do', [
+        'btn',
+        'btn-success',
+        'btn-lg',
+        'js-start',
+    ]);
+    btnStart?.addEventListener('click', e => {
+        start();
+    });
+    return btnStart;
+};
+
+/**
+ * Create button: Next
+ */
+const createBtnNext = () => {
+    const btnNext = createCustomElement('button', 'Next', [
+        'btn',
+        'btn-success',
+        'btn-lg',
+        'js-next',
+    ]);
+    btnNext?.addEventListener('click', e => {
+        document.querySelector('.word')?.remove();
+        document.querySelector('.js-answer')?.classList.add('d-none');
+        outputWord(data, state);
+    });
+    return btnNext;
+};
+
+/**
  * Output question
  * @param {Array} data
  * @param {Number} index
@@ -58,7 +92,6 @@ const outputWord = (data, index = 0) => {
     const infoEl = document.querySelector('.js-info');
     const answerEl = document.querySelector('.js-answer');
     const btnReset = document.querySelector('.js-reset');
-    const btnStart = document.querySelector('.js-start');
     const btnShow = createCustomElement('button', 'Unveil', [
         'btn',
         'btn-success',
@@ -72,23 +105,9 @@ const outputWord = (data, index = 0) => {
         answerEl.classList.remove('d-none');
         btnReset.classList.remove('d-none');
 
-        const btnStart = createCustomElement('button', 'Next', [
-            'btn',
-            'btn-success',
-            'btn-lg',
-            'js-start',
-        ]);
-        btnStart?.addEventListener('click', e => {
-            document.querySelector('.word')?.remove();
-            document.querySelector('.js-answer')?.classList.add('d-none');
-            state = state + 1;
-            outputWord(data, state);
-        });
-        btnShow.replaceWith(btnStart);
-
         e.preventDefault();
     });
-    btnStart?.replaceWith(btnShow);
+
     answerEl.children[0].textContent = '';
     const words = [data[data.length - (index + 1)]];
 
@@ -102,9 +121,9 @@ const outputWord = (data, index = 0) => {
 };
 
 /**
- * Replace initial output with question
+ * Show first word
  */
-const outputQuestion = () => {
+const start = () => {
     const questionEl = document.querySelector('.js-question');
     const question = createCustomElement('h2', 'Do you know this word?', [
         'mb-5',
@@ -112,49 +131,45 @@ const outputQuestion = () => {
         'js-question',
     ]);
     questionEl.replaceWith(question);
+
+    const btnStart = document.querySelector('.js-start');
+    const btnNext = createBtnNext();
+    btnStart?.replaceWith(btnNext);
+
+    const btnReset = document.querySelector('.js-reset');
+    btnReset?.classList.remove('d-none');
+
     outputWord(data);
 };
-
-const reset = () => {
-    state = 0;
-    const questionEl = document.querySelector('.js-question');
-    const question = createCustomElement('h2', 'There is something new for today. Ready?', [
-        'mb-5',
-        'fw-normal',
-        'js-question',
-    ]);
-
-    questionEl.replaceWith(question);
-};
-
-/**
- * Show words for today
- */
 const btnStart = document.querySelector('.js-start');
 btnStart?.addEventListener('click', e => {
-    outputQuestion();
+    start();
 });
 
 /**
- * Reset progress
+ * Reset output and state
  */
-const btnReset = document.querySelector('.js-reset');
-btnReset?.addEventListener('click', e => {
+const reset = () => {
+    state = 0;
+
+    const questionEl = document.querySelector('.js-question');
+    const question = createCustomElement('h2', 'There is something new for today. Ready?', [
+        'fw-normal',
+        'js-question',
+    ]);
+    questionEl.replaceWith(question);
+
+    const btnReset = document.querySelector('.js-reset');
+    btnReset.classList.add('d-none');
+
     document.querySelector('.word')?.remove();
     document.querySelector('.js-answer')?.classList.add('d-none');
-    const btnStart = document.querySelector('.js-start');
-    if (btnStart) {
-        btnStart.textContent = 'Sure, I do';
-    }
-    const btnShow = document.querySelector('.js-show');
-    if (btnShow) {
-        const btnStart = createCustomElement('button', 'Next', [
-            'btn',
-            'btn-success',
-            'btn-lg',
-            'js-start',
-        ]);
-        btnShow.replaceWith(btnStart);
-    }
+
+    const btnNext = document.querySelector('.js-next');
+    const btnStart = createBtnStart();
+    btnNext?.replaceWith(btnStart);
+};
+const btnReset = document.querySelector('.js-reset');
+btnReset?.addEventListener('click', e => {
     reset();
 });

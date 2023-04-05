@@ -4,6 +4,8 @@
 
 ![Jest Tests workflow](https://github.com/chausme/words/actions/workflows/jest-tests.yml/badge.svg)
 
+![chrome_X7EVXPHJA1](https://user-images.githubusercontent.com/8984203/230071640-47529b9a-e906-44dc-829e-c596a5693de5.gif)
+
 ## Why?
 
 I face unfamiliar words when watch videos, read texts or listen to music. So I've decided to learn something new every day - a single word or a few, it doesn't take much time and is a fun way to kick off morning together with a cup of espresso.

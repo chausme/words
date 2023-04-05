@@ -50,19 +50,43 @@ export const createAnswerOutput = meanings => {
 };
 
 /**
- * Create button: Start
+ * Output word and answer using global data JSON
+ * @param {Number} index
  */
-const createBtnStart = () => {
-    const btnStart = createCustomElement('button', 'Sure, I do', [
+const outputWord = (index = 0) => {
+    const infoEl = document.querySelector('.js-info');
+    const answerEl = document.querySelector('.js-answer');
+
+    answerEl.children[0].textContent = '';
+    const words = [data[data.length - (parseInt(index, 10) + 1)]];
+
+    words.forEach(word => {
+        const wordEl = createCustomElement('h2', `- ${word.word} (${getWordType(word.type)})`, [
+            'word',
+        ]);
+        infoEl.appendChild(wordEl);
+        answerEl.children[0].appendChild(createAnswerOutput(word.meaning));
+    });
+};
+
+/**
+ * Create and output button: Show
+ */
+const outputBtnShow = btnNext => {
+    const answerEl = document.querySelector('.js-answer');
+    const btnShow = createCustomElement('button', 'Unveil', [
         'btn',
         'btn-success',
         'btn-lg',
-        'js-start',
+        'js-show',
     ]);
-    btnStart?.addEventListener('click', e => {
-        start();
+    btnShow?.addEventListener('click', e => {
+        answerEl.classList.remove('d-none');
+        btnShow?.replaceWith(btnNext);
+        e.preventDefault();
     });
-    return btnStart;
+    btnNext?.replaceWith(btnShow);
+    return btnShow;
 };
 
 /**
@@ -75,12 +99,12 @@ const createBtnNext = () => {
         'btn-lg',
         'js-next',
     ]);
-    btnNext?.addEventListener('click', e => {
+    btnNext?.addEventListener('click', () => {
         document.querySelector('.word')?.remove();
         document.querySelector('.js-answer')?.classList.add('d-none');
-        state = state + 1;
+        state += 1;
         outputBtnShow(btnNext);
-        outputWord(data, state);
+        outputWord(state);
     });
     return btnNext;
 };
@@ -106,49 +130,6 @@ const createBtnShow = () => {
 };
 
 /**
- * Create and output button: Show
- */
-const outputBtnShow = btnNext => {
-    const answerEl = document.querySelector('.js-answer');
-    const btnShow = createCustomElement('button', 'Unveil', [
-        'btn',
-        'btn-success',
-        'btn-lg',
-        'js-show',
-    ]);
-    btnShow?.addEventListener('click', e => {
-        answerEl.classList.remove('d-none');
-        btnShow?.replaceWith(btnNext);
-        e.preventDefault();
-    });
-    btnNext?.replaceWith(btnShow);
-    return btnShow;
-};
-
-/**
- * Output question
- * @param {Array} data
- * @param {Number} index
- */
-const outputWord = (data, index = 0) => {
-    const infoEl = document.querySelector('.js-info');
-    const answerEl = document.querySelector('.js-answer');
-
-    index = parseInt(index, 10);
-
-    answerEl.children[0].textContent = '';
-    const words = [data[data.length - (index + 1)]];
-
-    words.forEach(word => {
-        const wordEl = createCustomElement('h2', `- ${word.word} (${getWordType(word.type)})`, [
-            'word',
-        ]);
-        infoEl.appendChild(wordEl);
-        answerEl.children[0].appendChild(createAnswerOutput(word.meaning));
-    });
-};
-
-/**
  * Show first word
  */
 const start = () => {
@@ -167,10 +148,30 @@ const start = () => {
     const btnReset = document.querySelector('.js-reset');
     btnReset?.classList.remove('d-none');
 
-    outputWord(data);
+    outputWord();
 };
+
+/**
+ * Create button: Start
+ */
+const createBtnStart = () => {
+    const btnStart = createCustomElement('button', 'Sure, I do', [
+        'btn',
+        'btn-success',
+        'btn-lg',
+        'js-start',
+    ]);
+    btnStart?.addEventListener('click', () => {
+        start();
+    });
+    return btnStart;
+};
+
+/**
+ * Show first word - add listener to button
+ */
 const btnStart = document.querySelector('.js-start');
-btnStart?.addEventListener('click', e => {
+btnStart?.addEventListener('click', () => {
     start();
 });
 
@@ -195,17 +196,21 @@ const reset = () => {
 
     const btnNext = document.querySelector('.js-next');
     const btnShow = document.querySelector('.js-show');
-    const btnStart = createBtnStart();
+    const btnStartNew = createBtnStart();
 
     if (btnNext) {
-        btnNext.replaceWith(btnStart);
+        btnNext.replaceWith(btnStartNew);
     }
 
     if (btnShow) {
-        btnShow.replaceWith(btnStart);
+        btnShow.replaceWith(btnStartNew);
     }
 };
+
+/**
+ * Reset output and state - add listener to button
+ */
 const btnReset = document.querySelector('.js-reset');
-btnReset?.addEventListener('click', e => {
+btnReset?.addEventListener('click', () => {
     reset();
 });

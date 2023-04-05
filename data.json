@@ -604,5 +604,22 @@
         "word": "marvelous",
         "type": "adj",
         "meaning": ["causing great wonder; extraordinary"]
+    },
+    {
+        "date": "2023-04-05",
+        "word": "sprinkling",
+        "type": "n",
+        "meaning": ["a small thinly distributed amount of something"]
+    },
+    {
+        "date": "2023-04-05",
+        "word": "thinly",
+        "type": "adv",
+        "meaning": [
+            "in a way that creates a thin piece or layer of something",
+            "with little flesh or fat on the body",
+            "with few parts or people relative to the area covered or filled; sparsely",
+            "in a way that lacks strength, substance, or quality; weakly"
+        ]
     }
 ]

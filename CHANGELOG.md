@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.2.1] - 2023-04-05
+
+### Added
+
+-   Multiple words support.
+-   ESLint and Prettier.
+-   Local usage notes.
+
+### Changed
+
+-   Move local JSON file from /src directory.
+-   Remove full stops from local JSON file.
+
+### Fixed
+
+-   Files as per ESLint output.
+-   Remove global scope variables.
+-   Minor README typo.
+
 ## [0.1.1] - 2023-03-27
 
 ### Added

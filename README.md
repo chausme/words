@@ -16,7 +16,7 @@ General idea is to add words with their explanation, make visible at [words.mx](
 
 [words.mx](https://words.mx)
 
-That's possible to run locally with inluded data or add your own words. To run locally:
+That's possible to run locally with included data or add your own words. To run locally:
 
 -   `npm run dev` - start dev server at `http://localhost:1234`
 -   `npm run build` - create production build at `./dist`

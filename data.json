@@ -627,5 +627,11 @@
         "word": "sparsely",
         "type": "adv",
         "meaning": ["in a thinly dispersed manner; in small numbers"]
+    },
+    {
+        "date": "2023-04-07",
+        "word": "robust",
+        "type": "adj",
+        "meaning": ["strong and healthy; vigorous", "(of wine or food) strong and rich in flavor or smell"]
     }
 ]

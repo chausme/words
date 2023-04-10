@@ -632,6 +632,15 @@
         "date": "2023-04-07",
         "word": "robust",
         "type": "adj",
-        "meaning": ["strong and healthy; vigorous", "(of wine or food) strong and rich in flavor or smell"]
+        "meaning": [
+            "strong and healthy; vigorous",
+            "(of wine or food) strong and rich in flavor or smell"
+        ]
+    },
+    {
+        "date": "2023-04-10",
+        "word": "vigorous",
+        "type": "adj",
+        "meaning": ["strong, healthy, and full of energy"]
     }
 ]

@@ -642,5 +642,11 @@
         "word": "vigorous",
         "type": "adj",
         "meaning": ["strong, healthy, and full of energy"]
+    },
+    {
+        "date": "2023-04-11",
+        "word": "indiscretion",
+        "type": "n",
+        "meaning": ["behavior or speech that is indiscreet or displays a lack of good judgment"]
     }
 ]

@@ -648,5 +648,13 @@
         "word": "indiscretion",
         "type": "n",
         "meaning": ["behavior or speech that is indiscreet or displays a lack of good judgment"]
+    },
+    {
+        "date": "2023-04-12",
+        "word": "indiscreet",
+        "type": "adv",
+        "meaning": [
+            "having, showing, or proceeding from too great a readiness to reveal things that should remain secret or private"
+        ]
     }
 ]

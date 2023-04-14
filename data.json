@@ -661,8 +661,12 @@
         "date": "2023-04-13",
         "word": "infatuation",
         "type": "n",
-        "meaning": [
-            "an intense but short-lived passion or admiration for someone or something"
-        ]
+        "meaning": ["an intense but short-lived passion or admiration for someone or something"]
+    },
+    {
+        "date": "2023-04-14",
+        "word": "tiresome",
+        "type": "adj",
+        "meaning": ["causing one to feel bored or annoyed"]
     }
 ]

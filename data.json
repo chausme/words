@@ -692,8 +692,12 @@
         "date": "2023-04-17",
         "word": "cease",
         "type": "v",
-        "meaning": [
-            "bring or come to an end"
-        ]
+        "meaning": ["bring or come to an end"]
+    },
+    {
+        "date": "2023-04-18",
+        "word": "toil",
+        "type": "v",
+        "meaning": ["work extremely hard or incessantly"]
     }
 ]

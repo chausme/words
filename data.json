@@ -734,6 +734,16 @@
         "date": "2023-04-23",
         "word": "mystique",
         "type": "n",
-        "meaning": ["a fascinating aura of mystery, awe, and power surrounding someone or something"]
+        "meaning": [
+            "a fascinating aura of mystery, awe, and power surrounding someone or something"
+        ]
+    },
+    {
+        "date": "2023-04-24",
+        "word": "gnat",
+        "type": "n",
+        "meaning": [
+            "a small two-winged fly that resembles a mosquito. Gnats include both biting and nonbiting forms, and they typically form large swarms"
+        ]
     }
 ]

@@ -757,5 +757,13 @@
         "word": "succulent",
         "type": "adj",
         "meaning": ["(of food) tender, juicy, and tasty", "(botany) a succulent plant"]
+    },
+    {
+        "date": "2023-04-27",
+        "word": "twinkle",
+        "type": "v",
+        "meaning": [
+            "(of a star or light, or a shiny object) shine with a gleam that varies repeatedly between bright and faint"
+        ]
     }
 ]

@@ -770,8 +770,12 @@
         "date": "2023-04-28",
         "word": "oblivious",
         "type": "adj",
-        "meaning": [
-            "not aware of or not concerned about what is happening around one"
-        ]
+        "meaning": ["not aware of or not concerned about what is happening around one"]
+    },
+    {
+        "date": "2023-04-30",
+        "word": "sprain",
+        "type": "n",
+        "meaning": ["the result of a wrench or twist of the ligaments of a joint"]
     }
 ]

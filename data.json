@@ -789,5 +789,13 @@
         "word": "contort",
         "type": "v",
         "meaning": ["twist or bend out of the normal shape"]
+    },
+    {
+        "date": "2023-05-03",
+        "word": "waylay",
+        "type": "v",
+        "meaning": [
+            "stop or interrupt (someone) and detain them in conversation or trouble them in some other way"
+        ]
     }
 ]

@@ -812,5 +812,15 @@
         "word": "spruce",
         "type": "adj",
         "meaning": ["neat in dress and appearance"]
+    },
+    {
+        "date": "2023-05-06",
+        "word": "poach",
+        "type": "v",
+        "meaning": [
+            "cook (an egg) without its shell in or over boiling water",
+            "illegally hunt or catch (game or fish) on land that is not one's own or in contravention of official protection",
+            "(of an animal) trample or cut up (turf) with its hoofs"
+        ]
     }
 ]

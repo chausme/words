@@ -834,5 +834,13 @@
         "word": "trample",
         "type": "v",
         "meaning": ["tread on and crush"]
+    },
+    {
+        "date": "2023-05-09",
+        "word": "lump",
+        "type": "n",
+        "meaning": [
+            "a compact mass of a substance, especially one without a definite or regular shape"
+        ]
     }
 ]

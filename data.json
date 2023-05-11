@@ -847,8 +847,14 @@
         "date": "2023-05-10",
         "word": "preposterous",
         "type": "adj",
+        "meaning": ["contrary to reason or common sense; utterly absurd or ridiculous"]
+    },
+    {
+        "date": "2023-05-11",
+        "word": "faint",
+        "type": "v",
         "meaning": [
-            "contrary to reason or common sense; utterly absurd or ridiculous"
+            "lose consciousness for a short time because of a temporarily insufficient supply of oxygen to the brain"
         ]
     }
 ]

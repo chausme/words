@@ -861,8 +861,12 @@
         "date": "2023-05-12",
         "word": "utterly",
         "type": "adv",
-        "meaning": [
-            "completely and without qualification; absolutely"
-        ]
+        "meaning": ["completely and without qualification; absolutely"]
+    },
+    {
+        "date": "2023-05-13",
+        "word": "upheaval",
+        "type": "n",
+        "meaning": ["a violent or sudden change or disruption to something"]
     }
 ]

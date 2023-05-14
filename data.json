@@ -868,5 +868,14 @@
         "word": "upheaval",
         "type": "n",
         "meaning": ["a violent or sudden change or disruption to something"]
+    },
+    {
+        "date": "2023-05-14",
+        "word": "disruption",
+        "type": "n",
+        "meaning": [
+            "disturbance or problems which interrupt an event, activity, or process",
+            "radical change to an existing industry or market due to technological innovation"
+        ]
     }
 ]

@@ -889,5 +889,13 @@
         "word": "detain",
         "type": "v",
         "meaning": ["keep (someone) from proceeding; hold back"]
+    },
+    {
+        "date": "2023-05-17",
+        "word": "ligament",
+        "type": "n",
+        "meaning": [
+            "a short band of tough, flexible fibrous connective tissue which connects two bones or cartilages or holds together a joint"
+        ]
     }
 ]

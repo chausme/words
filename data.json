@@ -912,12 +912,18 @@
     },
     {
         "date": "2023-05-20",
-        "word": "torn",
+        "word": "tear",
         "type": "v",
         "meaning": [
             "pull or rip (something) apart or to pieces with force",
             "(informal) move very quickly in a reckless or excited manner",
             "be in a state of uncertainty between two conflicting options or parties"
         ]
+    },
+    {
+        "date": "2023-05-21",
+        "word": "facetious",
+        "type": "adj",
+        "meaning": ["treating serious issues with deliberately inappropriate humor; flippant"]
     }
 ]

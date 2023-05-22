@@ -925,5 +925,11 @@
         "word": "facetious",
         "type": "adj",
         "meaning": ["treating serious issues with deliberately inappropriate humor; flippant"]
+    },
+    {
+        "date": "2023-05-22",
+        "word": "circumvent",
+        "type": "v",
+        "meaning": ["find a way around (an obstacle)"]
     }
 ]

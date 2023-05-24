@@ -937,5 +937,15 @@
         "word": "cherish",
         "type": "v",
         "meaning": ["protect and care for (someone) lovingly"]
+    },
+    {
+        "date": "2023-05-24",
+        "word": "prominent",
+        "type": "adj",
+        "meaning": [
+            "important; famous",
+            "projecting from something; protuberant",
+            "situated so as to catch the attention; noticeable"
+        ]
     }
 ]

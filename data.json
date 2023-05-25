@@ -947,5 +947,11 @@
             "projecting from something; protuberant",
             "situated so as to catch the attention; noticeable"
         ]
-    }
+    },
+    {
+        "date": "2023-05-25",
+        "word": "repressed",
+        "type": "adj",
+        "meaning": ["restrained, inhibited, or oppressed"]
+    },
 ]

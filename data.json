@@ -954,4 +954,18 @@
         "type": "adj",
         "meaning": ["restrained, inhibited, or oppressed"]
     },
+    {
+        "date": "2023-05-26",
+        "word": "scofflaw",
+        "type": "n",
+        "meaning": [
+            "a person who flouts the law, especially by failing to comply with a law that is difficult to enforce effectively"
+        ]
+    },
+    {
+        "date": "2023-05-26",
+        "word": "flout",
+        "type": "n",
+        "meaning": ["openly disregard (a rule, law or convention)"]
+    }
 ]

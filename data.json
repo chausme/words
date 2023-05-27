@@ -965,7 +965,13 @@
     {
         "date": "2023-05-26",
         "word": "flout",
-        "type": "n",
+        "type": "v",
         "meaning": ["openly disregard (a rule, law or convention)"]
+    },
+    {
+        "date": "2023-05-27",
+        "word": "prudent",
+        "type": "adj",
+        "meaning": ["acting with or showing care and thought for the future"]
     }
 ]

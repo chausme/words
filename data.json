@@ -973,5 +973,11 @@
         "word": "prudent",
         "type": "adj",
         "meaning": ["acting with or showing care and thought for the future"]
+    },
+    {
+        "date": "2023-05-28",
+        "word": "deride",
+        "type": "v",
+        "meaning": ["express contempt for; ridicule"]
     }
 ]

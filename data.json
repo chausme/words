@@ -979,5 +979,14 @@
         "word": "deride",
         "type": "v",
         "meaning": ["express contempt for; ridicule"]
+    },
+    {
+        "date": "2023-05-29",
+        "word": "defer",
+        "type": "v",
+        "meaning": [
+            "put off (an action or event) to a later time; postpone",
+            "submit humbly to (a person or a person's wishes or qualities)"
+        ]
     }
 ]

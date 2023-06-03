@@ -1015,5 +1015,15 @@
         "word": "endeavor",
         "type": "v",
         "meaning": ["try hard to do or achieve something"]
+    },
+    {
+        "date": "2023-06-03",
+        "word": "apron",
+        "type": "n",
+        "meaning": [
+            "a protective or decorative garment worn over the front of one's clothes and tied at the back",
+            "a small area adjacent to another larger area or structure",
+            "an endless conveyor made of overlapping plates"
+        ]
     }
 ]

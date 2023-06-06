@@ -1037,5 +1037,11 @@
         "word": "appalled",
         "type": "adj",
         "meaning": ["greatly dismayed or horrified"]
+    },
+    {
+        "date": "2023-06-06",
+        "word": "deplete",
+        "type": "v",
+        "meaning": ["use up the supply or resources of"]
     }
 ]

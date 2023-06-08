@@ -1049,5 +1049,14 @@
         "word": "volition",
         "type": "n",
         "meaning": ["the faculty or power of using one's will"]
+    },
+    {
+        "date": "2023-06-08",
+        "word": "wreck",
+        "type": "n",
+        "meaning": [
+            "the destruction of a ship at sea; a shipwreck",
+            "something, especially a vehicle or building, that has been badly damaged or destroyed"
+        ]
     }
 ]

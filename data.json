@@ -1066,9 +1066,15 @@
         "meaning": ["push (something or someone) suddenly or violently in the specified direction"]
     },
     {
-        "date": "2023-06-11",
+        "date": "2023-06-10",
         "word": "discrepancy",
         "type": "n",
         "meaning": ["a lack of compatibility or similarity between two or more facts"]
+    },
+    {
+        "date": "2023-06-11",
+        "word": "suffice",
+        "type": "v",
+        "meaning": ["be enough or adequate"]
     }
 ]

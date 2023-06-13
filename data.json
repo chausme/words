@@ -1082,5 +1082,11 @@
         "word": "certitude",
         "type": "n",
         "meaning": ["absolute certainty or conviction that something is the case"]
+    },
+    {
+        "date": "2023-06-14",
+        "word": "yield",
+        "type": "v",
+        "meaning": ["produce or provide (a natural, agricultural, or industrial product)", "give way to arguments, demands, or pressure"]
     }
 ]

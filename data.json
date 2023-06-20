@@ -1087,7 +1087,10 @@
         "date": "2023-06-13",
         "word": "yield",
         "type": "v",
-        "meaning": ["produce or provide (a natural, agricultural, or industrial product)", "give way to arguments, demands, or pressure"]
+        "meaning": [
+            "produce or provide (a natural, agricultural, or industrial product)",
+            "give way to arguments, demands, or pressure"
+        ]
     },
     {
         "date": "2023-06-14",
@@ -1117,12 +1120,24 @@
         "date": "2023-06-18",
         "word": "pretense",
         "type": "n",
-        "meaning": ["an attempt to make something that is not the case appear true", "a claim, especially a false or ambitious one"]
+        "meaning": [
+            "an attempt to make something that is not the case appear true",
+            "a claim, especially a false or ambitious one"
+        ]
     },
     {
         "date": "2023-06-19",
         "word": "trepidatious",
         "type": "adj",
         "meaning": ["apprehensive or nervous; filled with trepidation"]
+    },
+    {
+        "date": "2023-06-20",
+        "word": "apprehensive",
+        "type": "adj",
+        "meaning": [
+            "anxious or fearful that something bad or unpleasant will happen",
+            "(rare) relating to perception or understanding"
+        ]
     }
 ]

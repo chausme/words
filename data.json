@@ -1145,5 +1145,13 @@
         "word": "trepidation",
         "type": "n",
         "meaning": ["a feeling of fear or agitation about something that may happen"]
+    },
+    {
+        "date": "2023-06-22",
+        "word": "hypocrisy",
+        "type": "n",
+        "meaning": [
+            "the practice of claiming to have moral standards or beliefs to which one's own behavior does not conform; pretense"
+        ]
     }
 ]

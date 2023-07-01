@@ -1208,5 +1208,14 @@
         "word": "thwart",
         "type": "v",
         "meaning": ["prevent (someone) from accomplishing something"]
+    },
+    {
+        "date": "2023-07-01",
+        "word": "malleability",
+        "type": "n",
+        "meaning": [
+            "capability of being shaped or extended by hammering, forging, etc.",
+            "capability of being influenced or altered by external forces"
+        ]
     }
 ]

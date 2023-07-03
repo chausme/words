@@ -1223,5 +1223,11 @@
         "word": "sudsy",
         "type": "adj",
         "meaning": ["full of suds, frothy, foamy"]
+    },
+    {
+        "date": "2023-07-03",
+        "word": "saunter",
+        "type": "v",
+        "meaning": ["walk in a slow, relaxed manner, without hurry or effort"]
     }
 ]

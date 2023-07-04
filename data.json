@@ -1229,5 +1229,11 @@
         "word": "saunter",
         "type": "v",
         "meaning": ["walk in a slow, relaxed manner, without hurry or effort"]
+    },
+    {
+        "date": "2023-07-04",
+        "word": "hearsay",
+        "type": "n",
+        "meaning": ["information received from other people that one cannot adequately substantiate; rumor"]
     }
 ]

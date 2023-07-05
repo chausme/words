@@ -1234,6 +1234,14 @@
         "date": "2023-07-04",
         "word": "hearsay",
         "type": "n",
-        "meaning": ["information received from other people that one cannot adequately substantiate; rumor"]
+        "meaning": [
+            "information received from other people that one cannot adequately substantiate; rumor"
+        ]
+    },
+    {
+        "date": "2023-07-05",
+        "word": "wrath",
+        "type": "n",
+        "meaning": ["extreme anger (chiefly used for humorous or rhetorical effect)"]
     }
 ]

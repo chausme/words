@@ -1263,5 +1263,13 @@
         "word": "composedly",
         "type": "adv",
         "meaning": ["in a way that is calm and in control of your emotions"]
+    },
+    {
+        "date": "2023-07-09",
+        "word": "incoherent",
+        "type": "adj",
+        "meaning": [
+            "(of spoken or written language) expressed in an incomprehensible or confusing way; unclear"
+        ]
     }
 ]

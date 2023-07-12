@@ -1284,24 +1284,27 @@
         "date": "2023-07-11",
         "word": "ferocity",
         "type": "n",
-        "meaning": [
-            "the state or quality of being ferocious"
-        ]
+        "meaning": ["the state or quality of being ferocious"]
     },
     {
         "date": "2023-07-11",
         "word": "ferocious",
         "type": "adj",
-        "meaning": [
-            "savagely fierce, cruel, or violent"
-        ]
+        "meaning": ["savagely fierce, cruel, or violent"]
     },
     {
         "date": "2023-07-11",
         "word": "fierce",
         "type": "adj",
+        "meaning": ["having or displaying an intense or ferocious aggressiveness"]
+    },
+    {
+        "date": "2023-07-12",
+        "word": "whimsical",
+        "type": "adj",
         "meaning": [
-            "having or displaying an intense or ferocious aggressiveness"
+            "playfully quaint or fanciful, especially in an appealing and amusing way",
+            "acting or behaving in a capricious manner"
         ]
     }
 ]

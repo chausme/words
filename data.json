@@ -1312,5 +1312,11 @@
         "word": "ephemeral",
         "type": "adj",
         "meaning": ["lasting for a very short time"]
+    },
+    {
+        "date": "2023-07-15",
+        "word": "capricious",
+        "type": "adj",
+        "meaning": ["given to sudden and unaccountable changes of mood or behavior"]
     }
 ]

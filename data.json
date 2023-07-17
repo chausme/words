@@ -1324,5 +1324,13 @@
         "word": "arrogant",
         "type": "adj",
         "meaning": ["having or revealing an exaggerated sense of one's own importance or abilities"]
+    },
+    {
+        "date": "2023-07-17",
+        "word": "lump",
+        "type": "n",
+        "meaning": [
+            "a compact mass of a substance, especially one without a definite or regular shape"
+        ]
     }
 ]

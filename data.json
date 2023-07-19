@@ -1338,5 +1338,11 @@
         "word": "rigorous",
         "type": "adj",
         "meaning": ["extremely thorough, exhaustive, or accurate"]
+    },
+    {
+        "date": "2023-07-19",
+        "word": "shove",
+        "type": "v",
+        "meaning": ["push (someone or something) roughly"]
     }
 ]

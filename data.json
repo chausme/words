@@ -1344,5 +1344,11 @@
         "word": "shove",
         "type": "v",
         "meaning": ["push (someone or something) roughly"]
+    },
+    {
+        "date": "2023-07-20",
+        "word": "utterance",
+        "type": "n",
+        "meaning": ["a spoken word, statement, or vocal sound"]
     }
 ]

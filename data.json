@@ -1372,5 +1372,11 @@
         "word": "overt",
         "type": "adj",
         "meaning": ["done or shown openly; plainly or readily apparent, not secret or hidden"]
+    },
+    {
+        "date": "2023-07-24",
+        "word": "entail",
+        "type": "v",
+        "meaning": ["involve (something) as a necessary or inevitable part or consequence"]
     }
 ]

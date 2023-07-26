@@ -1383,6 +1383,14 @@
         "date": "2023-07-25",
         "word": "waggle",
         "type": "v",
-        "meaning": ["move or cause to move with short quick movements from side to side or up and down"]
+        "meaning": [
+            "move or cause to move with short quick movements from side to side or up and down"
+        ]
+    },
+    {
+        "date": "2023-07-26",
+        "word": "zing",
+        "type": "n",
+        "meaning": ["(informal) energy, enthusiasm, or liveliness"]
     }
 ]

@@ -1398,5 +1398,13 @@
         "word": "sheer",
         "type": "adj",
         "meaning": ["nothing other than; unmitigated (used for emphasis)"]
+    },
+    {
+        "date": "2023-07-28",
+        "word": "circumlocution",
+        "type": "n",
+        "meaning": [
+            "the use of many words where fewer would do, especially in a deliberate attempt to be vague or evasive"
+        ]
     }
 ]

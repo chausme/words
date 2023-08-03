@@ -1419,32 +1419,30 @@
         "date": "2023-07-30",
         "word": "musty",
         "type": "adj",
-        "meaning": [
-            "having a stale, moldy, or damp smell"
-        ]
+        "meaning": ["having a stale, moldy, or damp smell"]
     },
     {
         "date": "2023-07-31",
         "word": "prissy",
         "type": "adj",
-        "meaning": [
-            "fussily and excessively respectable"
-        ]
+        "meaning": ["fussily and excessively respectable"]
     },
     {
         "date": "2023-08-01",
         "word": "deluge",
         "type": "v",
-        "meaning": [
-            "inundate with a great quantity of something"
-        ]
+        "meaning": ["inundate with a great quantity of something"]
     },
     {
         "date": "2023-08-02",
         "word": "astutely",
         "type": "adv",
-        "meaning": [
-            "accurately assessing situations or people; perceptively"
-        ]
+        "meaning": ["accurately assessing situations or people; perceptively"]
+    },
+    {
+        "date": "2023-08-03",
+        "word": "spatial",
+        "type": "adj",
+        "meaning": ["relating to or occupying space"]
     }
 ]

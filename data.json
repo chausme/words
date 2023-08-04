@@ -1444,5 +1444,11 @@
         "word": "spatial",
         "type": "adj",
         "meaning": ["relating to or occupying space"]
+    },
+    {
+        "date": "2023-08-04",
+        "word": "queasy",
+        "type": "adj",
+        "meaning": ["nauseated; feeling sick"]
     }
 ]

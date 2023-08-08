@@ -1468,5 +1468,14 @@
         "word": "twirl",
         "type": "n",
         "meaning": ["an act of spinning"]
+    },
+    {
+        "date": "2023-08-08",
+        "word": "scoff",
+        "type": "v",
+        "meaning": [
+            "speak to someone or about something in a scornfully derisive or mocking way",
+            "(informal) eat (something) quickly and greedily"
+        ]
     }
 ]

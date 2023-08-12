@@ -1489,5 +1489,11 @@
         "word": "fastidious",
         "type": "adj",
         "meaning": ["very attentive to and concerned about accuracy and detail"]
+    },
+    {
+        "date": "2023-08-12",
+        "word": "oar",
+        "type": "n",
+        "meaning": ["a pole with a flat blade, pivoting in an oar lock, used to row or steer a boat through the water"]
     }
 ]

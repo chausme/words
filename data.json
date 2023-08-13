@@ -1494,6 +1494,14 @@
         "date": "2023-08-12",
         "word": "oar",
         "type": "n",
-        "meaning": ["a pole with a flat blade, pivoting in an oar lock, used to row or steer a boat through the water"]
+        "meaning": [
+            "a pole with a flat blade, pivoting in an oar lock, used to row or steer a boat through the water"
+        ]
+    },
+    {
+        "date": "2023-08-13",
+        "word": "blissfully",
+        "type": "adv",
+        "meaning": ["in a manner characterized by extreme happiness or joy"]
     }
 ]

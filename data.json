@@ -1520,6 +1520,17 @@
         "date": "2023-08-16",
         "word": "allegation",
         "type": "n",
-        "meaning": ["a claim or assertion that someone has done something illegal or wrong, typically one made without proof"]
+        "meaning": [
+            "a claim or assertion that someone has done something illegal or wrong, typically one made without proof"
+        ]
+    },
+    {
+        "date": "2023-08-17",
+        "word": "quarrel",
+        "type": "n",
+        "meaning": [
+            "a heated argument or disagreement, typically about a trivial issue and between people who are usually on good term",
+            "(historical) a short, heavy, square-headed arrow or bolt used in a crossbow or arbalest"
+        ]
     }
 ]

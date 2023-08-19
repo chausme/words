@@ -1537,8 +1537,15 @@
         "date": "2023-08-18",
         "word": "wrangle",
         "type": "n",
+        "meaning": ["a dispute or argument, typically one that is long and complicated"]
+    },
+    {
+        "date": "2023-08-19",
+        "word": "wriggle",
+        "type": "v",
         "meaning": [
-            "a dispute or argument, typically one that is long and complicated"
+            "twist and turn with quick writhing movements",
+            "avoid (something) by devious means"
         ]
     }
 ]

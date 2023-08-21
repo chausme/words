@@ -1552,6 +1552,15 @@
         "date": "2023-08-20",
         "word": "crock",
         "type": "n",
-        "meaning": ["an earthenware pot or jar", "(informal) an old person who is feeble and useless"]
+        "meaning": [
+            "an earthenware pot or jar",
+            "(informal) an old person who is feeble and useless"
+        ]
+    },
+    {
+        "date": "2023-08-21",
+        "word": "staggering",
+        "type": "adj",
+        "meaning": ["deeply shocking; astonishing"]
     }
 ]

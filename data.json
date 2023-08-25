@@ -1580,5 +1580,17 @@
         "word": "dreary",
         "type": "adj",
         "meaning": ["dull, bleak, and lifeless; depressing"]
+    },
+    {
+        "date": "2023-08-25",
+        "word": "bleak",
+        "type": "adj",
+        "meaning": [
+            "(of an area of land) lacking vegetation and exposed to the elements",
+            "(of a building or room) charmless and inhospitable; dreary",
+            "(of the weather) cold and miserable",
+            "(of a situation) not hopeful or encouraging; unlikely to have a favourable outcome",
+            "(of a person's expression) cold and forbidding"
+        ]
     }
 ]

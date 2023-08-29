@@ -1610,5 +1610,11 @@
         "word": "gilded",
         "type": "adj",
         "meaning": ["covered thinly with gold leaf or gold paint"]
+    },
+    {
+        "date": "2023-08-29",
+        "word": "flaw",
+        "type": "n",
+        "meaning": ["a mark, fault, or other imperfection that mars a substance or object"]
     }
 ]

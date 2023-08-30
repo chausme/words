@@ -1616,5 +1616,11 @@
         "word": "flaw",
         "type": "n",
         "meaning": ["a mark, fault, or other imperfection that mars a substance or object"]
+    },
+    {
+        "date": "2023-08-30",
+        "word": "mar",
+        "type": "v",
+        "meaning": ["impair the appearance of; disfigure"]
     }
 ]

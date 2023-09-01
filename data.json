@@ -1628,5 +1628,15 @@
         "word": "impair",
         "type": "v",
         "meaning": ["weaken or damage something (especially a human faculty or function)"]
+    },
+    {
+        "date": "2023-09-01",
+        "word": "faculty",
+        "type": "n",
+        "meaning": [
+            "an inherent mental or physical power",
+            "a group of university departments concerned with a major division of knowledge",
+            "a license or authorization from a Church authority"
+        ]
     }
 ]

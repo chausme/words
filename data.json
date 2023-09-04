@@ -1656,5 +1656,13 @@
         "word": "brevity",
         "type": "n",
         "meaning": ["concise and exact use of words in writing or speech"]
+    },
+    {
+        "date": "2023-09-04",
+        "word": "concise",
+        "type": "adj",
+        "meaning": [
+            "giving a lot of information clearly and in a few words; brief but comprehensive"
+        ]
     }
 ]

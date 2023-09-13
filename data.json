@@ -1715,5 +1715,14 @@
         "word": "brisk",
         "type": "adj",
         "meaning": ["active, fast, and energetic"]
+    },
+    {
+        "date": "2023-09-13",
+        "word": "shiver",
+        "type": "n",
+        "meaning": [
+            "a momentary trembling movement",
+            "each of the small fragments into which something such as glass is shattered when broken; a splinter"
+        ]
     }
 ]

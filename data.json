@@ -1756,5 +1756,11 @@
         "word": "shabby",
         "type": "adj",
         "meaning": ["in poor condition through long or hard use or lack of care"]
+    },
+    {
+        "date": "2023-09-18",
+        "word": "limp",
+        "type": "v",
+        "meaning": ["walk with difficulty, typically because of a damaged or stiff leg or foot"]
     }
 ]

@@ -1762,5 +1762,11 @@
         "word": "limp",
         "type": "v",
         "meaning": ["walk with difficulty, typically because of a damaged or stiff leg or foot"]
+    },
+    {
+        "date": "2023-09-19",
+        "word": "stiff",
+        "type": "adj",
+        "meaning": ["not easily bent or changed in shape; rigid"]
     }
 ]

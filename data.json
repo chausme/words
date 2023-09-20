@@ -1768,5 +1768,14 @@
         "word": "stiff",
         "type": "adj",
         "meaning": ["not easily bent or changed in shape; rigid"]
+    },
+    {
+        "date": "2023-09-20",
+        "word": "rigid",
+        "type": "adj",
+        "meaning": [
+            "unable to bend or be forced out of shape; not flexible",
+            "not able to be changed or adapted"
+        ]
     }
 ]

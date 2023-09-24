@@ -1797,5 +1797,11 @@
         "word": "feeble",
         "type": "adj",
         "meaning": ["lacking physical strength, especially as a result of age or illness"]
+    },
+    {
+        "date": "2023-09-24",
+        "word": "pebble",
+        "type": "n",
+        "meaning": ["a small stone made smooth and round by the action of water or sand"]
     }
 ]

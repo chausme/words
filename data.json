@@ -1803,5 +1803,22 @@
         "word": "pebble",
         "type": "n",
         "meaning": ["a small stone made smooth and round by the action of water or sand"]
+    },
+    {
+        "date": "2023-09-25",
+        "word": "rivet",
+        "type": "v",
+        "meaning": [
+            "join or fasten (plates of metal) with a rivet or rivets",
+            "hold (someone or something) fast so as to make them incapable of movement"
+        ]
+    },
+    {
+        "date": "2023-09-25",
+        "word": "rivet",
+        "type": "n",
+        "meaning": [
+            "a short metal pin or bolt for holding together two plates of metal, its headless end being beaten out or pressed down when in place"
+        ]
     }
 ]

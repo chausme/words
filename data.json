@@ -1868,5 +1868,11 @@
         "word": "gelid",
         "type": "adj",
         "meaning": ["(literary) icy; extremely cold"]
+    },
+    {
+        "date": "2023-10-03",
+        "word": "redact",
+        "type": "v",
+        "meaning": ["edit (text) for publication"]
     }
 ]

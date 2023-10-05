@@ -1874,5 +1874,13 @@
         "word": "redact",
         "type": "v",
         "meaning": ["edit (text) for publication"]
+    },
+    {
+        "date": "2023-10-05",
+        "word": "wince",
+        "type": "v",
+        "meaning": [
+            "give a slight involuntary grimace or shrinking movement of the body out of or in anticipation of pain or distress"
+        ]
     }
 ]

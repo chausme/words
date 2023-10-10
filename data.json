@@ -1906,5 +1906,13 @@
         "word": "insectivorous",
         "type": "adj",
         "meaning": ["(of an animal) feeding on insects, worms, and other invertebrates"]
+    },
+    {
+        "date": "2023-10-10",
+        "word": "invertebrate",
+        "type": "n",
+        "meaning": [
+            "an animal lacking a backbone, such as an arthropod, mollusk, annelid, coelenterate, etc."
+        ]
     }
 ]

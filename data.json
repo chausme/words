@@ -1914,5 +1914,14 @@
         "meaning": [
             "an animal lacking a backbone, such as an arthropod, mollusk, annelid, coelenterate, etc."
         ]
+    },
+    {
+        "date": "2023-10-11",
+        "word": "instantaneous",
+        "type": "adj",
+        "meaning": [
+            "occurring or done in an instant or instantly",
+            "(physics) existing or measured at a particular instant"
+        ]
     }
 ]

@@ -1936,9 +1936,15 @@
         ]
     },
     {
-        "date": "2023-10-13",
+        "date": "2023-10-14",
         "word": "cackle",
         "type": "v",
         "meaning": ["make a harsh, raucous sound when laughing"]
+    },
+    {
+        "date": "2023-10-15",
+        "word": "boulder",
+        "type": "n",
+        "meaning": ["a large rock, typically one that has been worn smooth by erosion"]
     }
 ]

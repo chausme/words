@@ -1976,5 +1976,14 @@
         "word": "guffaw",
         "type": "v",
         "meaning": ["laugh in a loud or boisterous way"]
+    },
+    {
+        "date": "2023-10-23",
+        "word": "hectic",
+        "type": "adj",
+        "meaning": [
+            "full of incessant or frantic activity",
+            "(archaic) relating to, affected by, or denoting a regularly recurrent fever typically accompanying tuberculosis, with flushed cheeks and hot, dry skin"
+        ]
     }
 ]

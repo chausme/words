@@ -1998,8 +1998,12 @@
         "date": "2023-10-25",
         "word": "frantic",
         "type": "adj",
-        "meaning": [
-            "wild or distraught with fear, anxiety, or other emotion"
-        ]
+        "meaning": ["wild or distraught with fear, anxiety, or other emotion"]
+    },
+    {
+        "date": "2023-10-26",
+        "word": "distraught",
+        "type": "adj",
+        "meaning": ["deeply upset and agitated"]
     }
 ]

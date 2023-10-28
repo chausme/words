@@ -2011,5 +2011,13 @@
         "word": "cushy",
         "type": "adj",
         "meaning": ["(informal) (of a job, task, or situation) undemanding, easy, or secure"]
+    },
+    {
+        "date": "2023-10-28",
+        "word": "relive",
+        "type": "v",
+        "meaning": [
+            "live through (an experience or feeling, especially an unpleasant one) again in one's imagination or memory"
+        ]
     }
 ]

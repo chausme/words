@@ -2037,5 +2037,14 @@
         "word": "delight",
         "type": "n",
         "meaning": ["great pleasure"]
+    },
+    {
+        "date": "2023-11-01",
+        "word": "avert",
+        "type": "v",
+        "meaning": [
+            "turn away (one's eyes or thoughts)",
+            "prevent or ward off (an undesirable occurrence)"
+        ]
     }
 ]

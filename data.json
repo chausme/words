@@ -2102,5 +2102,11 @@
         "word": "neat",
         "type": "adj",
         "meaning": ["(of a place or thing) arranged in an orderly, tidy way"]
+    },
+    {
+        "date": "2023-11-15",
+        "word": "revere",
+        "type": "v",
+        "meaning": ["feel deep respect or admiration for (something)"]
     }
 ]

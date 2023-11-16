@@ -2108,5 +2108,14 @@
         "word": "revere",
         "type": "v",
         "meaning": ["feel deep respect or admiration for (something)"]
+    },
+    {
+        "date": "2023-11-16",
+        "word": "prong",
+        "type": "n",
+        "meaning": [
+            "each of two or more projecting pointed parts at the end of a fork",
+            "each of the separate parts of an attack or operation"
+        ]
     }
 ]

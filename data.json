@@ -2131,5 +2131,13 @@
         "word": "uncanny",
         "type": "adj",
         "meaning": ["strange or mysterious, especially in an unsettling way"]
+    },
+    {
+        "date": "2023-11-19",
+        "word": "skid",
+        "type": "v",
+        "meaning": [
+            "(of a vehicle) slide, typically sideways or obliquely, on slippery ground or as a result of stopping or turning too quickly"
+        ]
     }
 ]

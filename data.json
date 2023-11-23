@@ -2144,17 +2144,13 @@
         "date": "2023-11-20",
         "word": "derail",
         "type": "v",
-        "meaning": [
-            "cause (a train or trolley car) to leave its tracks accidentally"
-        ]
+        "meaning": ["cause (a train or trolley car) to leave its tracks accidentally"]
     },
     {
         "date": "2023-11-21",
         "word": "severance",
         "type": "n",
-        "meaning": [
-            "the action of ending a connection or relationship"
-        ]
+        "meaning": ["the action of ending a connection or relationship"]
     },
     {
         "date": "2023-11-22",
@@ -2163,5 +2159,11 @@
         "meaning": [
             "change rapidly and repeatedly from one position, situation, or condition to another and back again"
         ]
+    },
+    {
+        "date": "2023-11-23",
+        "word": "horrid",
+        "type": "adj",
+        "meaning": ["very unpleasant or disagreeable", "causing horror"]
     }
 ]

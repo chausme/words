@@ -2165,5 +2165,15 @@
         "word": "horrid",
         "type": "adj",
         "meaning": ["very unpleasant or disagreeable", "causing horror"]
+    },
+    {
+        "date": "2023-11-24",
+        "word": "condensation",
+        "type": "n",
+        "meaning": [
+            "water which collects as droplets on a cold surface when humid air is in contact with it",
+            "the conversion of a vapor or gas to a liquid",
+            "a concise version of something, especially a text"
+        ]
     }
 ]

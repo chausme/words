@@ -2191,5 +2191,11 @@
         "word": "exhilarating",
         "type": "adj",
         "meaning": ["making one feel very happy, animated, or elated; thrilling"]
+    },
+    {
+        "date": "2023-11-27",
+        "word": "repeal",
+        "type": "v",
+        "meaning": ["revoke or annul (a law or congressional act)"]
     }
 ]

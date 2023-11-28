@@ -2197,5 +2197,13 @@
         "word": "repeal",
         "type": "v",
         "meaning": ["revoke or annul (a law or congressional act)"]
+    },
+    {
+        "date": "2023-11-28",
+        "word": "walrus",
+        "type": "n",
+        "meaning": [
+            "a large gregarious marine mammal related to the eared seals, having two large downward-pointing tusks and found in the Arctic Ocean"
+        ]
     }
 ]

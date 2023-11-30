@@ -2210,8 +2210,15 @@
         "date": "2023-11-29",
         "word": "egret",
         "type": "n",
+        "meaning": ["a heron with mainly white plumage, having long plumes in the breeding season"]
+    },
+    {
+        "date": "2023-11-30",
+        "word": "intense",
+        "type": "adj",
         "meaning": [
-            "a heron with mainly white plumage, having long plumes in the breeding season"
+            "of extreme force, degree, or strength",
+            "having or showing strong feelings or opinions; extremely earnest or serious"
         ]
     }
 ]

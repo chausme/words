@@ -2226,5 +2226,14 @@
         "word": "slob",
         "type": "n",
         "meaning": ["(informal) a person who is lazy and has low standards of cleanliness"]
+    },
+    {
+        "date": "2023-12-02",
+        "word": "rye",
+        "type": "n",
+        "meaning": [
+            "a cereal plant that tolerates poor soils and low temperatures",
+            "whiskey in which a significant amount of the grain used in distillation is fermented rye"
+        ]
     }
 ]

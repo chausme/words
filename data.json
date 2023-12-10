@@ -2257,5 +2257,15 @@
         "word": "agog",
         "type": "adj",
         "meaning": ["very eager or curious to hear or see something"]
+    },
+    {
+        "date": "2023-12-10",
+        "word": "fluke",
+        "type": "n",
+        "meaning": [
+            "an unlikely chance occurrence, especially a surprising piece of luck",
+            "a small flatworm that lives as a parasite inside or on the body of another animal, and can cause disease",
+            "the part of an anchor that fastens in the ground"
+        ]
     }
 ]

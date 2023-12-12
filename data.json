@@ -2273,5 +2273,13 @@
         "word": "peachy",
         "type": "adj",
         "meaning": ["of the nature or appearance of a peach", "unusually fine"]
+    },
+    {
+        "date": "2023-12-12",
+        "word": "valiance",
+        "type": "n",
+        "meaning": [
+            "bravery or determination, especially when things are difficult, or when the situation gives no cause for hope"
+        ]
     }
 ]

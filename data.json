@@ -2308,5 +2308,13 @@
         "word": "terse",
         "type": "adj",
         "meaning": ["sparing in the use of words; abrupt"]
+    },
+    {
+        "date": "2023-12-18",
+        "word": "cushion",
+        "type": "n",
+        "meaning": [
+            "a pillow or pad stuffed with a mass of soft material, used as a comfortable support for sitting or leaning on"
+        ]
     }
 ]

@@ -2321,8 +2321,14 @@
         "date": "2023-12-19",
         "word": "demerit",
         "type": "n",
+        "meaning": ["a feature or fact deserving censure"]
+    },
+    {
+        "date": "2023-12-20",
+        "word": "censure",
+        "type": "v",
         "meaning": [
-            "a feature or fact deserving censure"
+            "express severe disapproval of (someone or something), especially in a formal statement"
         ]
     }
 ]

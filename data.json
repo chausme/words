@@ -2342,5 +2342,13 @@
         "word": "sage",
         "type": "adj",
         "meaning": ["having, showing, or indicating profound wisdom"]
+    },
+    {
+        "date": "2023-12-23",
+        "word": "elicit",
+        "type": "v",
+        "meaning": [
+            "evoke or draw out (a response, answer, or fact) from someone in reaction to one's own actions or questions"
+        ]
     }
 ]

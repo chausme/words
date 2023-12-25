@@ -2355,8 +2355,12 @@
         "date": "2023-12-24",
         "word": "blare",
         "type": "n",
-        "meaning": [
-            "a loud, harsh sound"
-        ]
+        "meaning": ["a loud, harsh sound"]
+    },
+    {
+        "date": "2023-12-25",
+        "word": "apparent",
+        "type": "adj",
+        "meaning": ["clearly visible or understood; obvious"]
     }
 ]

@@ -2368,5 +2368,13 @@
         "word": "complacent",
         "type": "adj",
         "meaning": ["showing smug or uncritical satisfaction with oneself or one's achievements"]
+    },
+    {
+        "date": "2023-12-28",
+        "word": "casket",
+        "type": "n",
+        "meaning": [
+            "a small ornamental box or chest for holding jewels, letters, or other valuable objects"
+        ]
     }
 ]

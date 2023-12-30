@@ -2382,5 +2382,13 @@
         "word": "icicle",
         "type": "n",
         "meaning": ["a hanging, tapering piece of ice formed by the freezing of dripping water"]
+    },
+    {
+        "date": "2023-12-30",
+        "word": "maroon",
+        "type": "v",
+        "meaning": [
+            "leave (someone) trapped and isolated in an inaccessible place, especially an island"
+        ]
     }
 ]

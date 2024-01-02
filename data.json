@@ -2396,5 +2396,14 @@
         "word": "indelible",
         "type": "adj",
         "meaning": ["(of ink or a pen) making marks that cannot be removed"]
+    },
+    {
+        "date": "2024-01-02",
+        "word": "rake",
+        "type": "n",
+        "meaning": [
+            "an implement consisting of a pole with a crossbar toothed like a comb at the end, or with several tines held together by a crosspiece, used especially for drawing together cut grass or fallen leaves, or smoothing loose soil or gravel",
+            "(dated) a fashionable or wealthy man of dissolute or promiscuous habits"
+        ]
     }
 ]

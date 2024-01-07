@@ -2431,5 +2431,14 @@
         "word": "munch",
         "type": "v",
         "meaning": ["eat (something) with a continuous and often audible action of the jaws"]
+    },
+    {
+        "date": "2023-01-07",
+        "word": "coddle",
+        "type": "v",
+        "meaning": [
+            "treat in an indulgent or overprotective way",
+            "cook (an egg) in water below boiling point"
+        ]
     }
 ]

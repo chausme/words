@@ -2446,5 +2446,11 @@
         "word": "livid",
         "type": "adj",
         "meaning": ["furiously angry"]
+    },
+    {
+        "date": "2023-01-09",
+        "word": "rumble",
+        "type": "v",
+        "meaning": ["make a continuous deep, resonant sound"]
     }
 ]

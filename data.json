@@ -2458,5 +2458,13 @@
         "word": "affable",
         "type": "adj",
         "meaning": ["friendly, good-natured, or easy to talk to"]
+    },
+    {
+        "date": "2023-01-11",
+        "word": "flinch",
+        "type": "v",
+        "meaning": [
+            "make a quick, nervous movement as an instinctive reaction to fear, pain, or surprise"
+        ]
     }
 ]

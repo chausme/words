@@ -2471,6 +2471,16 @@
         "date": "2023-01-12",
         "word": "sway",
         "type": "v",
-        "meaning": ["move or cause to move slowly or rhythmically backward and forward or from side to side"]
+        "meaning": [
+            "move or cause to move slowly or rhythmically backward and forward or from side to side"
+        ]
+    },
+    {
+        "date": "2023-01-13",
+        "word": "rancid",
+        "type": "adj",
+        "meaning": [
+            "(of foods containing fat or oil) smelling or tasting unpleasant as a result of being old and stale"
+        ]
     }
 ]

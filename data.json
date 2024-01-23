@@ -2544,5 +2544,13 @@
         "word": "contentment",
         "type": "n",
         "meaning": ["a state of happiness and satisfaction"]
+    },
+    {
+        "date": "2023-01-23",
+        "word": "umpteenth",
+        "type": "adj",
+        "meaning": [
+            "(informal) used to emphasize that something has happened on many other occasions."
+        ]
     }
 ]

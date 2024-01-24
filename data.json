@@ -2550,7 +2550,13 @@
         "word": "umpteenth",
         "type": "adj",
         "meaning": [
-            "(informal) used to emphasize that something has happened on many other occasions."
+            "(informal) used to emphasize that something has happened on many other occasions"
         ]
+    },
+    {
+        "date": "2023-01-24",
+        "word": "itinerary",
+        "type": "n",
+        "meaning": ["a planned route or journey"]
     }
 ]

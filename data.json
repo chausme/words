@@ -2569,6 +2569,14 @@
         "date": "2023-01-26",
         "word": "pumice",
         "type": "n",
-        "meaning": ["a very light and porous volcanic rock formed when a gas-rich froth of glassy lava solidifies rapidly"]
+        "meaning": [
+            "a very light and porous volcanic rock formed when a gas-rich froth of glassy lava solidifies rapidly"
+        ]
+    },
+    {
+        "date": "2023-01-27",
+        "word": "glitter",
+        "type": "v",
+        "meaning": ["shine with a bright, shimmering reflected light"]
     }
 ]

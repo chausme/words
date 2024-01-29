@@ -2584,5 +2584,14 @@
         "word": "exhalation",
         "type": "n",
         "meaning": ["the process or action of exhaling"]
+    },
+    {
+        "date": "2023-01-29",
+        "word": "volatile",
+        "type": "adj",
+        "meaning": [
+            "(of a substance) easily evaporated at normal temperatures",
+            "liable to change rapidly and unpredictably, especially for the worse"
+        ]
     }
 ]

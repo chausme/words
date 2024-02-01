@@ -2610,5 +2610,11 @@
             "make (something) denser or more concentrated",
             "change or cause to change from a gas or vapor to a liquid"
         ]
+    },
+    {
+        "date": "2023-02-01",
+        "word": "quicksilver",
+        "type": "n",
+        "meaning": ["the liquid metal mercury"]
     }
 ]

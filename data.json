@@ -2622,5 +2622,14 @@
         "word": "interim",
         "type": "adj",
         "meaning": ["in or for the intervening period; provisional or temporary"]
+    },
+    {
+        "date": "2023-02-03",
+        "word": "sulfur",
+        "type": "n",
+        "meaning": [
+            "the chemical element of atomic number 16, a yellow combustible nonmetal",
+            "an American butterfly with predominantly yellow wings that may bear darker patches"
+        ]
     }
 ]

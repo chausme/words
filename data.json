@@ -2643,5 +2643,11 @@
         "word": "intricate",
         "type": "adj",
         "meaning": ["very complicated or detailed"]
+    },
+    {
+        "date": "2023-02-06",
+        "word": "murmur",
+        "type": "v",
+        "meaning": ["say something in a low, soft, or indistinct voice"]
     }
 ]

@@ -2655,5 +2655,14 @@
         "word": "cradle",
         "type": "v",
         "meaning": ["hold gently and protectively"]
+    },
+    {
+        "date": "2023-02-08",
+        "word": "observance",
+        "type": "n",
+        "meaning": [
+            "the action or practice of fulfilling or respecting the requirements of law, morality, or ritual",
+            "the action of watching or noticing something"
+        ]
     }
 ]

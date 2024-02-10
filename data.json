@@ -2657,12 +2657,18 @@
         "meaning": ["hold gently and protectively"]
     },
     {
-        "date": "2023-02-08",
+        "date": "2023-02-09",
         "word": "observance",
         "type": "n",
         "meaning": [
             "the action or practice of fulfilling or respecting the requirements of law, morality, or ritual",
             "the action of watching or noticing something"
         ]
+    },
+    {
+        "date": "2023-02-10",
+        "word": "choosy",
+        "type": "adj",
+        "meaning": ["(informal) overly fastidious in making a choice"]
     }
 ]

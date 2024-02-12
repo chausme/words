@@ -2676,5 +2676,14 @@
         "word": "forehead",
         "type": "n",
         "meaning": ["the part of the face above the eyebrows"]
+    },
+    {
+        "date": "2023-02-12",
+        "word": "bale",
+        "type": "n",
+        "meaning": [
+            "a bundle of paper, hay, cotton, etc., tightly wrapped and bound with cords or hoops",
+            "(archaic) evil considered as a destructive force"
+        ]
     }
 ]

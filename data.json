@@ -2702,5 +2702,11 @@
             "a vertical wooden post or plank in a building or other structure",
             "a verse or stanza of a poem"
         ]
+    },
+    {
+        "date": "2023-02-17",
+        "word": "stanza",
+        "type": "n",
+        "meaning": ["a group of lines forming the basic recurring metrical unit in a poem; a verse"]
     }
 ]

@@ -2708,5 +2708,14 @@
         "word": "stanza",
         "type": "n",
         "meaning": ["a group of lines forming the basic recurring metrical unit in a poem; a verse"]
+    },
+    {
+        "date": "2023-02-18",
+        "word": "radiant",
+        "type": "adj",
+        "meaning": [
+            "sending out light; shining or glowing brightly",
+            "(of heat) transmitted by radiation, rather than conduction or convection"
+        ]
     }
 ]

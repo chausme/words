@@ -2755,5 +2755,11 @@
         "word": "studious",
         "type": "adj",
         "meaning": ["spending a lot of time studying or reading"]
+    },
+    {
+        "date": "2023-02-26",
+        "word": "satiety",
+        "type": "n",
+        "meaning": ["the feeling or state of being sated"]
     }
 ]

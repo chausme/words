@@ -2761,5 +2761,11 @@
         "word": "satiety",
         "type": "n",
         "meaning": ["the feeling or state of being sated"]
+    },
+    {
+        "date": "2023-02-27",
+        "word": "sate",
+        "type": "v",
+        "meaning": ["satisfy (a desire or an appetite) to the full"]
     }
 ]

@@ -2773,5 +2773,13 @@
         "word": "impartial",
         "type": "v",
         "meaning": ["treating all rivals or disputants equally; fair and just"]
+    },
+    {
+        "date": "2023-02-29",
+        "word": "rival",
+        "type": "n",
+        "meaning": [
+            "a person or thing competing with another for the same objective or for superiority in the same field of activity"
+        ]
     }
 ]

@@ -2799,5 +2799,11 @@
         "word": "affectionate",
         "type": "adj",
         "meaning": ["readily feeling or showing fondness or tenderness"]
+    },
+    {
+        "date": "2023-03-04",
+        "word": "flake",
+        "type": "v",
+        "meaning": ["come or fall away from a surface in thin pieces"]
     }
 ]

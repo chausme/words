@@ -2805,5 +2805,13 @@
         "word": "flake",
         "type": "v",
         "meaning": ["come or fall away from a surface in thin pieces"]
+    },
+    {
+        "date": "2023-03-05",
+        "word": "lurch",
+        "type": "v",
+        "meaning": [
+            "make an abrupt, unsteady, uncontrolled movement or series of movements; stagger"
+        ]
     }
 ]

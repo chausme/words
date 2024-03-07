@@ -2819,5 +2819,14 @@
         "word": "stagger",
         "type": "v",
         "meaning": ["walk or move unsteadily, as if about to fall"]
+    },
+    {
+        "date": "2023-03-07",
+        "word": "confer",
+        "type": "v",
+        "meaning": [
+            "grant or bestow (a title, degree, benefit, or right)",
+            "have discussions; exchange opinions"
+        ]
     }
 ]

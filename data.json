@@ -2834,5 +2834,15 @@
         "word": "puck",
         "type": "n",
         "meaning": ["a black disk made of hard rubber, the focus of play in ice hockey"]
+    },
+    {
+        "date": "2023-03-09",
+        "word": "rouse",
+        "type": "v",
+        "meaning": [
+            "bring out of sleep; awaken",
+            "cause to feel angry or excited",
+            "stir (a liquid, especially beer while brewing)"
+        ]
     }
 ]

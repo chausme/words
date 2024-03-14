@@ -2871,5 +2871,11 @@
         "word": "irritable",
         "type": "adj",
         "meaning": ["having or showing a tendency to be easily annoyed or made angry"]
+    },
+    {
+        "date": "2023-03-14",
+        "word": "calamity",
+        "type": "n",
+        "meaning": ["an event causing great and often sudden damage or distress; a disaster"]
     }
 ]

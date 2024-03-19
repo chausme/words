@@ -2903,5 +2903,11 @@
         "word": "murky",
         "type": "adj",
         "meaning": ["dark and gloomy, especially due to thick mist"]
+    },
+    {
+        "date": "2023-03-19",
+        "word": "rancor",
+        "type": "noun",
+        "meaning": ["bitterness or resentfulness, especially when long-standing"]
     }
 ]

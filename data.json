@@ -2915,5 +2915,15 @@
         "word": "blatant",
         "type": "adj",
         "meaning": ["(of bad behavior) done openly and unashamedly"]
+    },
+    {
+        "date": "2023-03-21",
+        "word": "justify",
+        "type": "v",
+        "meaning": [
+            "show or prove to be right or reasonable",
+            "(theology) declare or make righteous in the sight of God",
+            "(printing) adjust (a line of type or piece of text) so that the print fills a space evenly or forms a straight edge at one or both margins"
+        ]
     }
 ]

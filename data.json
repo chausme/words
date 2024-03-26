@@ -2939,5 +2939,14 @@
         "word": "indignation",
         "type": "n",
         "meaning": ["anger or annoyance provoked by what is perceived as unfair treatment"]
+    },
+    {
+        "date": "2023-03-26",
+        "word": "dissipate",
+        "type": "v",
+        "meaning": [
+            "(with reference to a feeling or other intangible thing) disappear or cause to disappear",
+            "squander or fritter away (money, energy, or resources)"
+        ]
     }
 ]

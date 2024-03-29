@@ -2954,5 +2954,14 @@
         "word": "intangible",
         "type": "adj",
         "meaning": ["unable to be touched or grasped; not having physical presence"]
+    },
+    {
+        "date": "2023-03-29",
+        "word": "grasp",
+        "type": "v",
+        "meaning": [
+            "seize and hold firmly",
+            "to understand something, especially something difficult"
+        ]
     }
 ]

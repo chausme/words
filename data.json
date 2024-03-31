@@ -2969,5 +2969,14 @@
         "word": "firmly",
         "type": "adv",
         "meaning": ["with little possibility of movement; securely"]
+    },
+    {
+        "date": "2023-03-31",
+        "word": "fritter",
+        "type": "v",
+        "meaning": [
+            "waste time, money, or energy on trifling matters",
+            "divide (something) into small pieces"
+        ]
     }
 ]

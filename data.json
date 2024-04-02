@@ -2981,8 +2981,14 @@
     },
     {
         "date": "2023-04-01",
-        "word": "mesmerizing ",
+        "word": "mesmerizing",
         "type": "adj",
         "meaning": ["capturing one's complete attention as if by magic"]
+    },
+    {
+        "date": "2023-04-02",
+        "word": "trifling",
+        "type": "adj",
+        "meaning": ["unimportant or trivial"]
     }
 ]

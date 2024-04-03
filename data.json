@@ -2990,5 +2990,11 @@
         "word": "trifling",
         "type": "adj",
         "meaning": ["unimportant or trivial"]
+    },
+    {
+        "date": "2023-04-03",
+        "word": "trivial",
+        "type": "adj",
+        "meaning": ["of little value or importance"]
     }
 ]

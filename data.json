@@ -3047,5 +3047,14 @@
         "word": "sulky",
         "type": "adj",
         "meaning": ["morose, bad-tempered, and resentful; refusing to be cooperative or cheerful"]
+    },
+    {
+        "date": "2024-04-12",
+        "word": "tether",
+        "type": "v",
+        "meaning": [
+            "tie (an animal) with a rope or chain so as to restrict its movement",
+            "use (a smartphone) in order to connect a computer or other device to the internet"
+        ]
     }
 ]

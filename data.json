@@ -3086,5 +3086,14 @@
         "word": "futile",
         "type": "adj",
         "meaning": ["incapable of producing any useful result; pointless"]
+    },
+    {
+        "date": "2024-04-19",
+        "word": "saddle",
+        "type": "n",
+        "meaning": [
+            "a seat fastened on the back of a horse or other animal for riding, typically made of leather and raised at the front and rear",
+            "a low part of a ridge between two higher points or peaks"
+        ]
     }
 ]

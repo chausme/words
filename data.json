@@ -3160,5 +3160,13 @@
         "word": "loitering",
         "type": "v",
         "meaning": ["stand or wait around idly or without apparent purpose"]
+    },
+    {
+        "date": "2024-04-29",
+        "word": "oblique",
+        "type": "adj",
+        "meaning": [
+            "neither parallel nor at a right angle to a specified or implied line; slanting"
+        ]
     }
 ]

@@ -3174,5 +3174,15 @@
         "word": "implied",
         "type": "adj",
         "meaning": ["suggested but not directly expressed; implicit"]
+    },
+    {
+        "date": "2024-05-01",
+        "word": "implicit",
+        "type": "adj",
+        "meaning": [
+            "implied though not plainly expressed",
+            "essentially or very closely connected with; always to be found in",
+            "with no qualification or question; absolute"
+        ]
     }
 ]

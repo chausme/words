@@ -3202,5 +3202,11 @@
         "word": "peculiar",
         "type": "adj",
         "meaning": ["strange or odd; unusual", "particular; special"]
+    },
+    {
+        "date": "2024-05-05",
+        "word": "wretch",
+        "type": "n",
+        "meaning": ["an unfortunate or unhappy person"]
     }
 ]

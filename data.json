@@ -3252,5 +3252,11 @@
         "word": "obnoxious",
         "type": "adj",
         "meaning": ["extremely unpleasant"]
+    },
+    {
+        "date": "2024-05-14",
+        "word": "faze",
+        "type": "v",
+        "meaning": ["(informal) disturb or disconcert (someone)"]
     }
 ]
